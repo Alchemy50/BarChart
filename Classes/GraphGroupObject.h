@@ -8,9 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
+#define CASH 1
+#define PERCENT 2
+#define COUNT 3
+
 
 @interface GraphGroupObject : NSObject {
 	
+	int xAxes;
+	int metricType;	
 	
 	NSString *metricLabel;
 	NSString *lobLabel;
@@ -25,6 +31,9 @@
 @property (nonatomic, retain) NSString *lobLabel;
 @property (nonatomic, retain) NSMutableArray *segmentLabels;
 @property (nonatomic, retain) NSMutableArray *barGroupObjects;
+
+@property (nonatomic, assign) int xAxes;
+@property (nonatomic, assign) int metricType;
 
 
 @end

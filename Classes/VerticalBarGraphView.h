@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GraphGroupObject.h"
 
 
 @interface VerticalBarGraphView : UIView {
@@ -29,6 +30,8 @@
 }
 
 -(void)initialize;
+
+- (id)initWithFrame:(CGRect)frame andGraphGroupObject:(GraphGroupObject*) ggo;
 
 @property (nonatomic, retain) NSArray *valuesArray;
 @property (nonatomic, retain) NSArray *colorsArray;

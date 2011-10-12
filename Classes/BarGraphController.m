@@ -16,63 +16,58 @@
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
     if (self) {
-
-		NSArray *one = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];	
-		NSArray *two = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];	
-		NSArray *three = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:-((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];	
-		NSArray *four = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:-((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];
-		
-		
-		NSDictionary *d1 = [[NSDictionary alloc] initWithObjectsAndKeys:one, @"Apr", nil];
-		NSDictionary *d2 = [[NSDictionary alloc] initWithObjectsAndKeys:two, @"May", nil];
-		NSDictionary *d3 = [[NSDictionary alloc] initWithObjectsAndKeys:three, @"Jun", nil];
-		NSDictionary *d4 = [[NSDictionary alloc] initWithObjectsAndKeys:four, @"Jul", nil];	
-		
-		NSArray *data = [[NSArray alloc] initWithObjects:d1, d2, d3, d4, nil];
-		
-		
-		NSArray *colors = [[NSArray alloc] initWithObjects:[UIColor redColor], [UIColor blueColor], [UIColor greenColor], [UIColor lightGrayColor], [UIColor purpleColor], nil];
 		
 		
 		
-		// lets load all forcasts
-		
-		
-		BarGroupObject *bgo = [[BarGroupObject alloc] init];
 		GraphGroupObject *ggo = [[GraphGroupObject alloc] init];
 		
+		
+		BarGroupObject *bgo = [[BarGroupObject alloc] init];	
 		bgo.barColor = [UIColor redColor];
 		bgo.barLabel = @"Scheduled";
 		bgo.barValues = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];
 		
 		[ggo.barGroupObjects addObject:bgo];
 		[bgo release];
+
 		
-		BarGroupObject *bgo = [[BarGroupObject alloc] init];
+		BarGroupObject *bgo1 = [[BarGroupObject alloc] init];
 		
-		bgo.barColor = [UIColor greenColor];
-		bgo.barLabel = @"Actual";
-		bgo.barValues = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];		
+		bgo1.barColor = [UIColor greenColor];
+		bgo1.barLabel = @"Actual";
+		bgo1.barValues = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:(-(float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];		
 		
-		[ggo.barGroupObjects addObject:bgo];
-		[bgo release];
+		[ggo.barGroupObjects addObject:bgo1];
+		[bgo1 release];
 		
+		BarGroupObject *bgo2 = [[BarGroupObject alloc] init];
+		
+		bgo2.barColor = [UIColor grayColor];
+		bgo2.barLabel = @"Fake";
+		bgo2.barValues = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];		
+		
+		[ggo.barGroupObjects addObject:bgo2];
+		[bgo2 release];
+		
+		
+		BarGroupObject *bgo3 = [[BarGroupObject alloc] init];
+		
+		bgo3.barColor = [UIColor purpleColor];
+		bgo3.barLabel = @"Real";
+		bgo3.barValues = [[NSArray alloc] initWithObjects:[[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], [[NSNumber alloc] initWithFloat:((float)(arc4random() % 1000))], nil];		
+		
+		[ggo.barGroupObjects addObject:bgo3];
+		[bgo3 release];		
+	
 		ggo.segmentLabels = [[NSArray alloc] initWithObjects:@"Mon", @"Tues", @"Wed", @"Thurs", @"Fri", nil];
 		
-		ggo.metricLabel = @"ROCKETS";
-		ggo.lobLabel = @"IN TO SPACE";
+		ggo.metricLabel = @"ROCKETS TO MARS";
+		ggo.lobLabel = @"VIA SPACE";
 		
 		
-		
-		
-		
-		NSLog(@"Jay data: %@", data);
-		
-		VerticalBarGraphView *verticalBarGraphView = [[VerticalBarGraphView alloc] initWithFrame:CGRectMake(10, 20, 460, 260)];
+		VerticalBarGraphView *verticalBarGraphView = [[VerticalBarGraphView alloc] initWithFrame:CGRectMake(10, 20, 460, 260) andGraphGroupObject:ggo];
 		verticalBarGraphView.backgroundColor = [UIColor whiteColor];
 		
-		verticalBarGraphView.valuesArray = data;
-		verticalBarGraphView.colorsArray = colors;
 		
 		verticalBarGraphView.graphGroupObject = ggo;
 		

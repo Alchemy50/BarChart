@@ -8,6 +8,7 @@
 
 #import "VerticalBarGraphView.h"
 #import "UnitMetricObject.h"
+#import "BarGroupObject.h"
 
 
 
@@ -18,53 +19,78 @@ static int xAxes = 5;
 @synthesize actualColor, budgetColor, forecastColor, valuesArray, colorsArray, graphGroupObject;
 @synthesize  metricLabel, lobLabel, actualBoxView,  budgetBoxView;
 
-- (id)initWithFrame:(CGRect)frame {
+- (id)initWithFrame:(CGRect)frame andGraphGroupObject:(GraphGroupObject*) ggo {
 
     
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code.
 		self.backgroundColor = [UIColor clearColor];
-		
-		
-		self.actualColor = [UIColor greenColor];
-		self.budgetColor = [UIColor redColor];
-		self.forecastColor = [UIColor blueColor];
-		
-		
-		
-		NSString *metricString = @"REVENUES";
-		UIFont *metricLabelFont = [UIFont boldSystemFontOfSize:12];
-		
+
+		self.graphGroupObject = ggo;
+
+		NSString *metricString = self.graphGroupObject.metricLabel;
+		UIFont *metricLabelFont = [UIFont boldSystemFontOfSize:(self.frame.size.width/35 /* 9 for 460 width */)];		
 		
 		self.metricLabel = [[UILabel alloc] initWithFrame:CGRectMake(self.frame.size.width * .02, self.frame.size.height * .02, [metricString sizeWithFont:metricLabelFont].width, [metricString sizeWithFont:metricLabelFont].height)];
 		self.metricLabel.backgroundColor = [UIColor clearColor];
 		self.metricLabel.textColor = [UIColor blackColor];
 		self.metricLabel.font = metricLabelFont;
-		self.metricLabel.text = metricString;
+		//self.metricLabel.text = metricString;
+		self.metricLabel.text = self.graphGroupObject.metricLabel;
+		
 		[self addSubview:self.metricLabel];
 		
 		
-		NSString *lobString = @"LOB";
-		UIFont *lobLabelFont = [UIFont systemFontOfSize:9];		
+		NSString *lobString = self.graphGroupObject.lobLabel;
+		UIFont *lobLabelFont = [UIFont systemFontOfSize:(self.frame.size.width/51 /* 9 for 460 width */)];		
 		
-		self.lobLabel = [[UILabel alloc] initWithFrame:CGRectMake(self.metricLabel.frame.origin.x + self.metricLabel.frame.size.width + 3, self.metricLabel.frame.origin.y, [metricString sizeWithFont:lobLabelFont].width, [metricString sizeWithFont:metricLabelFont].height)];
+		self.lobLabel = [[UILabel alloc] initWithFrame:CGRectMake(self.metricLabel.frame.origin.x + self.metricLabel.frame.size.width + (self.frame.size.width/153 /* 3 for 460 width */), self.metricLabel.frame.origin.y, [lobString sizeWithFont:lobLabelFont].width, [metricString sizeWithFont:metricLabelFont].height)];
 		self.lobLabel.backgroundColor = [UIColor clearColor];
 		self.lobLabel.textColor = [UIColor darkGrayColor];
 		lobLabel.font = lobLabelFont;
 		lobLabel.textAlignment = UITextAlignmentLeft;
-		self.lobLabel.text = lobString;
+		//self.lobLabel.text = lobString;
+		self.lobLabel.text = self.graphGroupObject.lobLabel;
+		
 		[self addSubview:lobLabel];
-		
-		NSArray *labels = [[NSArray alloc] initWithObjects:@"ACTUAL", @"BUDGET", @"FORECAST", nil];
-		
+				
 		float totalWidth = 0;
 		float startX = 0;
 
 		
-		// add legend labels
-		
-
+		// add legend labels		
+		for (int i=0; i<[graphGroupObject.barGroupObjects count]; i++)
+		{			
+			
+			
+			// Need to invert the array (writing like in arabic) ensures left most bar = left most legend
+			BarGroupObject *bgo = [graphGroupObject.barGroupObjects objectAtIndex:[graphGroupObject.barGroupObjects count] - i - 1];
+			
+			
+			NSString *labelString = bgo.barLabel;			
+			UIFont *labelStringFont = [UIFont systemFontOfSize:(self.frame.size.width/51 /* 9 for 460 width */)];
+			
+			if (i>0)
+				totalWidth += [labelString sizeWithFont:labelStringFont].width + (self.frame.size.width/35 /* 13 for 460 width */) + (self.frame.size.width/77 /* 6 for 460 width */);
+			else 
+				startX = [labelString sizeWithFont:labelStringFont].width + (self.frame.size.width/77 /* 6 for 460 width */);
+			
+			UILabel *legendTextLabel =  [[UILabel alloc] initWithFrame:CGRectMake(self.frame.size.width - startX - totalWidth, self.frame.size.height * .02, [labelString sizeWithFont:labelStringFont].width, [labelString sizeWithFont:metricLabelFont].height)];
+			legendTextLabel.backgroundColor = [UIColor clearColor];
+			legendTextLabel.textColor = lobLabel.textColor;
+			legendTextLabel.font = labelStringFont;
+			legendTextLabel.text = labelString;
+			[self addSubview:legendTextLabel];
+			[legendTextLabel release];
+			[labelString release];
+			
+			UIView *labelColorBoxView = [[UIView alloc] initWithFrame:CGRectMake(legendTextLabel.frame.origin.x - (self.frame.size.width/35 /* 13 for 460 width */) - (self.frame.size.width/153 /* 3 for 460 width */), legendTextLabel.frame.origin.y + 4, (self.frame.size.width/35 /* 13 for 460 width */), (self.frame.size.width/115 /* 4 for 460 width */))];
+			labelColorBoxView.backgroundColor = bgo.barColor;
+			[self addSubview:labelColorBoxView];
+			[labelColorBoxView release];
+			
+		}	
 			
     }
     return self;
@@ -75,41 +101,7 @@ static int xAxes = 5;
 	
 	
 	//NSLog(@"Jay values array:  %@", valuesArray);
-	
-
-	
-	
-	for (int i=0; i<[labels count]; i++)
-	{			
-		
-		NSString *labelString = [labels objectAtIndex:i];
-		
-		UIFont *labelStringFont = [UIFont systemFontOfSize:9];
-		
-		if (i>0)
-			totalWidth += [labelString sizeWithFont:labelStringFont].width + 13 + 6;
-		else 
-			startX = [labelString sizeWithFont:labelStringFont].width + 6;
-		
-		UILabel *legendTextLabel =  [[UILabel alloc] initWithFrame:CGRectMake(self.frame.size.width - startX - totalWidth, self.frame.size.height * .02, [labelString sizeWithFont:labelStringFont].width, [labelString sizeWithFont:metricLabelFont].height)];
-		legendTextLabel.backgroundColor = [UIColor clearColor];
-		legendTextLabel.textColor = lobLabel.textColor;
-		legendTextLabel.font = labelStringFont;
-		legendTextLabel.text = labelString;
-		[self addSubview:legendTextLabel];
-		[legendTextLabel release];
-		[labelString release];
-		
-		UIView *labelColorBoxView = [[UIView alloc] initWithFrame:CGRectMake(legendTextLabel.frame.origin.x - 13 - 3, legendTextLabel.frame.origin.y + 4, 13, 4)];
-		labelColorBoxView.backgroundColor = self.forecastColor;
-		[self addSubview:labelColorBoxView];
-		[labelColorBoxView release];
-		
-	}	
-	
-
-	
-	if ([valuesArray count] > 0)
+	if (graphGroupObject != nil)
 	{
 		
 		float maxValue = 0.0;
@@ -118,18 +110,15 @@ static int xAxes = 5;
 		
 		
 		// get max and min vals
-		for (int i = 0; i < [valuesArray count]; i++)
+		for (int i = 0; i < [graphGroupObject.barGroupObjects count]; i++)
 		{				
-			NSString *key = [[[valuesArray objectAtIndex:i] allKeys] objectAtIndex:0]; 
-			NSArray *ar = [[valuesArray objectAtIndex:i] objectForKey:key];
+			BarGroupObject *bgo = [graphGroupObject.barGroupObjects objectAtIndex:i]; //values array
+			NSArray *ar = bgo.barValues;
 			
-			NSLog(@"Jay key: %@", key);
 			NSLog(@"Jay ar: %@", ar);
 			
 			for (int j = 0; j < [ar count]; j++)
 			{
-				
-				
 				if (![[ar objectAtIndex:j] isKindOfClass:[NSNull class]])
 				{
 					float val = [[ar objectAtIndex:j] floatValue];
@@ -163,11 +152,6 @@ static int xAxes = 5;
 
 		
 
- 
-	/*	float labelTotal = fabsf(maxValue) + fabsf(minValue);
-		if (minValue > 0)
-			labelTotal = fabsf(maxValue) - fabsf(minValue);
-	*/
 		float total = fabsf(maxValue) + fabsf(minValue);
 		float viewSpace = xAxisYBottom - xAxisYTop;
 		
@@ -190,67 +174,73 @@ static int xAxes = 5;
 			//float value = minValue + (total * distancePercentage);				
 			float value = minValue + (totalDiff  * distancePercentage);		
 
-			UILabel *axisLabel = [[UILabel alloc] initWithFrame:CGRectMake(xAxisEnd+2.5, axis.frame.origin.y - 7, 60, 15)];
+			UILabel *axisLabel = [[UILabel alloc] initWithFrame:CGRectMake(xAxisEnd, axis.frame.origin.y - 7, (self.frame.size.width/7.7 /* 60 for 460 width */), (self.frame.size.width/31 /* 15 for 460 width */))];
 //			axisLabel.backgroundColor = [UIColor colorWithRed:218/255.0F green:220/255.0F blue:222/255.0F alpha:1];
 			axisLabel.backgroundColor = [UIColor clearColor];
 			axisLabel.textColor = [UIColor blackColor];
 			axisLabel.textAlignment = UITextAlignmentRight;
 			axisLabel.text = [axisNumFormatter stringFromNumber:[NSNumber numberWithFloat:value]];
-			axisLabel.font = [UIFont systemFontOfSize:12];
+			axisLabel.font = [UIFont systemFontOfSize:(self.frame.size.width/38 /* 12 for 460 width */)];
 			if (!isnan(value))
 				[self addSubview:axisLabel];
 			
 			[axisLabel release];
 		}
 		
-		
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////		
-		
-		float monthWidth = (xAxisEnd - xAxisStart) / [valuesArray count];	
 				
-		float barPadding = monthWidth/9;
+		float monthWidth = (xAxisEnd - xAxisStart) / [graphGroupObject.segmentLabels count];
 		
-		float barWidth = monthWidth - barPadding/2;
+		float barPadding = monthWidth/30;
+		
+		float barsWidth = monthWidth - barPadding * 2;
+		
+		float barWidth = barsWidth / [graphGroupObject.barGroupObjects count];
+		
+		NSLog(@"Jay segValues:  %d", [graphGroupObject.segmentLabels count]);
 		
 		
-		
-		
-		for (int i = 0; i < [valuesArray count]; i++)
+		for (int i = 0; i < [graphGroupObject.segmentLabels count]; i++)
 		{
 			
-			NSString *key = [[[valuesArray objectAtIndex:i] allKeys] objectAtIndex:0]; 
-			NSArray *ar = [[valuesArray objectAtIndex:i] objectForKey:key];
+			NSString *key = [graphGroupObject.segmentLabels objectAtIndex:i]; 
 			
 			
-			// set x-axis label
+			// set x-axis/segment label
 			
-			UILabel *monthLabel = [[UILabel alloc] initWithFrame:CGRectMake(i * monthWidth, xAxisYBottom , monthWidth, 15)];
+			UILabel *monthLabel = [[UILabel alloc] initWithFrame:CGRectMake(i * monthWidth + xAxisStart, xAxisYBottom , monthWidth, 15)];
 			monthLabel.backgroundColor = [UIColor clearColor];
 			monthLabel.textColor = [UIColor blackColor];
-			monthLabel.font = [UIFont systemFontOfSize:10];
+			monthLabel.font = [UIFont systemFontOfSize:(self.frame.size.width/46 /* 10 for 460 width */)];
 			monthLabel.textAlignment = UITextAlignmentCenter;
 			NSString *keyString = key;
 			keyString = [keyString stringByReplacingOccurrencesOfString:@"(" withString:@""];
 			keyString = [keyString stringByReplacingOccurrencesOfString:@")" withString:@""];					 
 			monthLabel.text = [keyString uppercaseString];
 			[self addSubview:monthLabel];
-			[monthLabel release];			
+			[monthLabel release];		
 			
 			
-			for (int j = 0; j < [ar count]; j++)
+			for (int j = 0; j < [graphGroupObject.barGroupObjects count]; j++)
 			{
-				
-				
-				UIView *view0 = [[UIView alloc] initWithFrame:CGRectMake(monthLabel.frame.origin.x + barPadding + (barWidth / [ar count] * j), xAxisYBottom, barWidth / [ar count], 0)];
 
-				NSLog(@"ar[%d]: %@", j, [ar objectAtIndex:j]);
+				BarGroupObject *bgo = [graphGroupObject.barGroupObjects objectAtIndex:j];
 				
-				if (![[ar objectAtIndex:j] isKindOfClass:[NSNull class]] )
+				
+				UIView *view0 = [[UIView alloc] initWithFrame:CGRectMake(monthLabel.frame.origin.x + barPadding + (barWidth * j), xAxisYBottom, barWidth, 0)];
+				
+				if (![[bgo.barValues objectAtIndex:i] isKindOfClass:[NSNull class]] )
 				{
-					view0.backgroundColor = [colorsArray objectAtIndex:j];   //actualColor;
-					[self addSubview:view0];
 					
-					float realValue = [[ar objectAtIndex:j] floatValue];
+					
+					
+					view0.backgroundColor = [[graphGroupObject.barGroupObjects objectAtIndex:j] barColor];   //actualColor;
+					[self addSubview:view0];
+				
+					float realValue = [[bgo.barValues objectAtIndex:i] floatValue];
+				
+					//NSLog(@"Jay realValue:  %f", realValue);
+					
+					//float realValue = [[ar objectAtIndex:j] floatValue];
 					float resizedValue = fabsf(minValue) + realValue;			
 					float pctOfTotal = resizedValue / total;
 					
@@ -262,9 +252,11 @@ static int xAxes = 5;
 						
 					}
 					float y0 = xAxisYBottom - (pctOfTotal * viewSpace);
+				
+					NSLog(@"Jay realValue:  %f", y0);
 					
-					if (!isnan(y0) && !isinf(y0))
-						if ([[ar objectAtIndex:0] intValue] != 0.0)
+					if (!isnan(y0) && !isinf(y0))  
+						if ([[bgo.barValues objectAtIndex:0] intValue] != 0.0)
 						{
 							[UIView beginAnimations:nil context:nil]; // begins animation block
 							[UIView setAnimationDuration:.75];        // sets animation duration
@@ -272,7 +264,7 @@ static int xAxes = 5;
 							view0.frame = CGRectMake(view0.frame.origin.x, y0 , view0.frame.size.width, xAxisYBottom - y0);
 							[UIView commitAnimations];   // commits the animation block.  This Block is done.
 						}
-					
+				
 					
 				}
 				[view0 release];				

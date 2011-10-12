@@ -12,6 +12,15 @@
 @implementation GraphGroupObject
 
 
-@synthesize  metricLabel, lobLabel, segmentLabels, barGroupObjects;
+@synthesize  metricLabel, lobLabel, segmentLabels, barGroupObjects, xAxes, metricType;
+
+
+- (id)init {
+	
+	barGroupObjects = [[NSMutableArray alloc] init];
+	segmentLabels = [[NSMutableArray alloc] init];
+
+	return self;
+}
 
 @end

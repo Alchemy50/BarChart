@@ -2,7 +2,7 @@
 {
 	1D3623240D0F684500981E51 /* Test6AppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1802, 1022}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1802, 997}}";
 			sepNavSelRange = "{461, 0}";
 			sepNavVisRange = "{0, 469}";
 		};
@@ -233,6 +233,167 @@
 			76ADAC6A1445EF7800DA6F65 /* PBXTextBookmark */ = 76ADAC6A1445EF7800DA6F65 /* PBXTextBookmark */;
 			76ADAC6B1445EF7800DA6F65 /* PBXTextBookmark */ = 76ADAC6B1445EF7800DA6F65 /* PBXTextBookmark */;
 			76ADAC6C1445EF7800DA6F65 /* PBXTextBookmark */ = 76ADAC6C1445EF7800DA6F65 /* PBXTextBookmark */;
+			76ADAC731445F1BA00DA6F65 /* PBXTextBookmark */ = 76ADAC731445F1BA00DA6F65 /* PBXTextBookmark */;
+			76ADAC741445F1BA00DA6F65 /* PBXTextBookmark */ = 76ADAC741445F1BA00DA6F65 /* PBXTextBookmark */;
+			76ADAC751445F1BA00DA6F65 /* PBXTextBookmark */ = 76ADAC751445F1BA00DA6F65 /* PBXTextBookmark */;
+			76ADAC781445F21800DA6F65 /* PBXTextBookmark */ = 76ADAC781445F21800DA6F65 /* PBXTextBookmark */;
+			76ADAC7B1445F2A600DA6F65 /* PBXTextBookmark */ = 76ADAC7B1445F2A600DA6F65 /* PBXTextBookmark */;
+			76ADAC7C1445F2A600DA6F65 /* PBXTextBookmark */ = 76ADAC7C1445F2A600DA6F65 /* PBXTextBookmark */;
+			76ADAC7D1445F2A600DA6F65 /* PBXTextBookmark */ = 76ADAC7D1445F2A600DA6F65 /* PBXTextBookmark */;
+			76ADAC801445F2E100DA6F65 /* PBXTextBookmark */ = 76ADAC801445F2E100DA6F65 /* PBXTextBookmark */;
+			76ADAC851445F43600DA6F65 /* PBXTextBookmark */ = 76ADAC851445F43600DA6F65 /* PBXTextBookmark */;
+			76ADAC881445F46500DA6F65 /* PBXTextBookmark */ = 76ADAC881445F46500DA6F65 /* PBXTextBookmark */;
+			76ADAC8D1445F4E500DA6F65 /* PBXTextBookmark */ = 76ADAC8D1445F4E500DA6F65 /* PBXTextBookmark */;
+			76ADAC8E1445F4E500DA6F65 /* PBXTextBookmark */ = 76ADAC8E1445F4E500DA6F65 /* PBXTextBookmark */;
+			76ADAC8F1445F4E500DA6F65 /* PBXTextBookmark */ = 76ADAC8F1445F4E500DA6F65 /* PBXTextBookmark */;
+			76ADAC921445F55A00DA6F65 /* PBXTextBookmark */ = 76ADAC921445F55A00DA6F65 /* PBXTextBookmark */;
+			76ADAC931445F55A00DA6F65 /* PBXTextBookmark */ = 76ADAC931445F55A00DA6F65 /* PBXTextBookmark */;
+			76ADAC941445F55A00DA6F65 /* PBXTextBookmark */ = 76ADAC941445F55A00DA6F65 /* PBXTextBookmark */;
+			76ADAC951445F55A00DA6F65 /* PBXTextBookmark */ = 76ADAC951445F55A00DA6F65 /* PBXTextBookmark */;
+			76ADAC961445F55A00DA6F65 /* PBXTextBookmark */ = 76ADAC961445F55A00DA6F65 /* PBXTextBookmark */;
+			76ADAC991445F56A00DA6F65 /* PBXTextBookmark */ = 76ADAC991445F56A00DA6F65 /* PBXTextBookmark */;
+			76ADAC9C1445F5F300DA6F65 /* PBXTextBookmark */ = 76ADAC9C1445F5F300DA6F65 /* PBXTextBookmark */;
+			76ADAC9D1445F5F300DA6F65 /* PBXTextBookmark */ = 76ADAC9D1445F5F300DA6F65 /* PBXTextBookmark */;
+			76ADAC9E1445F5F300DA6F65 /* PBXTextBookmark */ = 76ADAC9E1445F5F300DA6F65 /* PBXTextBookmark */;
+			76ADAC9F1445F5F300DA6F65 /* PBXTextBookmark */ = 76ADAC9F1445F5F300DA6F65 /* PBXTextBookmark */;
+			76ADACA21445F62300DA6F65 /* PBXTextBookmark */ = 76ADACA21445F62300DA6F65 /* PBXTextBookmark */;
+			76ADACA31445F62300DA6F65 /* PBXTextBookmark */ = 76ADACA31445F62300DA6F65 /* PBXTextBookmark */;
+			76ADACA41445F62300DA6F65 /* PBXTextBookmark */ = 76ADACA41445F62300DA6F65 /* PBXTextBookmark */;
+			76ADACA71445F64400DA6F65 /* PBXTextBookmark */ = 76ADACA71445F64400DA6F65 /* PBXTextBookmark */;
+			76ADACA81445F64400DA6F65 /* PBXTextBookmark */ = 76ADACA81445F64400DA6F65 /* PBXTextBookmark */;
+			76ADACA91445F64400DA6F65 /* PBXTextBookmark */ = 76ADACA91445F64400DA6F65 /* PBXTextBookmark */;
+			76ADACB41445F87F00DA6F65 /* PBXTextBookmark */ = 76ADACB41445F87F00DA6F65 /* PBXTextBookmark */;
+			76ADACB71445FB2C00DA6F65 /* PBXTextBookmark */ = 76ADACB71445FB2C00DA6F65 /* PBXTextBookmark */;
+			76ADACCA1446006D00DA6F65 /* PBXTextBookmark */ = 76ADACCA1446006D00DA6F65 /* PBXTextBookmark */;
+			76ADACCF144608F400DA6F65 /* PBXTextBookmark */ = 76ADACCF144608F400DA6F65 /* PBXTextBookmark */;
+			76ADACD21446095300DA6F65 /* PBXTextBookmark */ = 76ADACD21446095300DA6F65 /* PBXTextBookmark */;
+			76ADACD51446096700DA6F65 /* PBXTextBookmark */ = 76ADACD51446096700DA6F65 /* PBXTextBookmark */;
+			76ADACD81446098900DA6F65 /* PBXTextBookmark */ = 76ADACD81446098900DA6F65 /* PBXTextBookmark */;
+			76ADACDB1446099D00DA6F65 /* PBXTextBookmark */ = 76ADACDB1446099D00DA6F65 /* PBXTextBookmark */;
+			76ADACDE14460A9100DA6F65 /* PBXTextBookmark */ = 76ADACDE14460A9100DA6F65 /* PBXTextBookmark */;
+			76ADACE114460AC800DA6F65 /* PBXTextBookmark */ = 76ADACE114460AC800DA6F65 /* PBXTextBookmark */;
+			76ADACE614460C5800DA6F65 /* PBXTextBookmark */ = 76ADACE614460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACE714460C5800DA6F65 /* PBXTextBookmark */ = 76ADACE714460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACE814460C5800DA6F65 /* PBXTextBookmark */ = 76ADACE814460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACE914460C5800DA6F65 /* PBXTextBookmark */ = 76ADACE914460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACEA14460C5800DA6F65 /* PBXTextBookmark */ = 76ADACEA14460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACEB14460C5800DA6F65 /* PBXTextBookmark */ = 76ADACEB14460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACEC14460C5800DA6F65 /* PBXTextBookmark */ = 76ADACEC14460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACED14460C5800DA6F65 /* PBXTextBookmark */ = 76ADACED14460C5800DA6F65 /* PBXTextBookmark */;
+			76ADACF014460CC100DA6F65 /* PBXTextBookmark */ = 76ADACF014460CC100DA6F65 /* PBXTextBookmark */;
+			76ADACF314460CEC00DA6F65 /* PBXTextBookmark */ = 76ADACF314460CEC00DA6F65 /* PBXTextBookmark */;
+			76ADACF614460D0300DA6F65 /* PBXTextBookmark */ = 76ADACF614460D0300DA6F65 /* PBXTextBookmark */;
+			76ADACF914460D1D00DA6F65 /* PBXTextBookmark */ = 76ADACF914460D1D00DA6F65 /* PBXTextBookmark */;
+			76ADACFE14460DE800DA6F65 /* PBXTextBookmark */ = 76ADACFE14460DE800DA6F65 /* PBXTextBookmark */;
+			76ADAD0114460E1D00DA6F65 /* PBXTextBookmark */ = 76ADAD0114460E1D00DA6F65 /* PBXTextBookmark */;
+			76ADAD0414460E4700DA6F65 /* PBXTextBookmark */ = 76ADAD0414460E4700DA6F65 /* PBXTextBookmark */;
+			76ADAD0714460EB200DA6F65 /* PBXTextBookmark */ = 76ADAD0714460EB200DA6F65 /* PBXTextBookmark */;
+			76ADAD0A14460EF700DA6F65 /* PBXTextBookmark */ = 76ADAD0A14460EF700DA6F65 /* PBXTextBookmark */;
+			76ADAD0D14460F1F00DA6F65 /* PBXTextBookmark */ = 76ADAD0D14460F1F00DA6F65 /* PBXTextBookmark */;
+			76ADAD1414460FA400DA6F65 /* PBXTextBookmark */ = 76ADAD1414460FA400DA6F65 /* PBXTextBookmark */;
+			76ADAD1514460FA400DA6F65 /* PBXTextBookmark */ = 76ADAD1514460FA400DA6F65 /* PBXTextBookmark */;
+			76ADAD1614460FA400DA6F65 /* PBXTextBookmark */ = 76ADAD1614460FA400DA6F65 /* PBXTextBookmark */;
+			76ADAD1714460FA400DA6F65 /* PBXTextBookmark */ = 76ADAD1714460FA400DA6F65 /* PBXTextBookmark */;
+			76ADAD1A1446100800DA6F65 /* PBXTextBookmark */ = 76ADAD1A1446100800DA6F65 /* PBXTextBookmark */;
+			76ADAD1B1446100800DA6F65 /* PBXTextBookmark */ = 76ADAD1B1446100800DA6F65 /* PBXTextBookmark */;
+			76ADAD1C1446100800DA6F65 /* PBXTextBookmark */ = 76ADAD1C1446100800DA6F65 /* PBXTextBookmark */;
+			76ADAD1F1446105500DA6F65 /* PBXTextBookmark */ = 76ADAD1F1446105500DA6F65 /* PBXTextBookmark */;
+			76ADAD221446106800DA6F65 /* PBXTextBookmark */ = 76ADAD221446106800DA6F65 /* PBXTextBookmark */;
+			76ADAD251446110500DA6F65 /* PBXTextBookmark */ = 76ADAD251446110500DA6F65 /* PBXTextBookmark */;
+			76ADAD281446117C00DA6F65 /* PBXTextBookmark */ = 76ADAD281446117C00DA6F65 /* PBXTextBookmark */;
+			76ADAD2B1446123F00DA6F65 /* PBXTextBookmark */ = 76ADAD2B1446123F00DA6F65 /* PBXTextBookmark */;
+			76ADAD2E1446125100DA6F65 /* PBXTextBookmark */ = 76ADAD2E1446125100DA6F65 /* PBXTextBookmark */;
+			76ADAD2F1446129900DA6F65 /* PBXTextBookmark */ = 76ADAD2F1446129900DA6F65 /* PBXTextBookmark */;
+			76ADAD321446139100DA6F65 /* PBXTextBookmark */ = 76ADAD321446139100DA6F65 /* PBXTextBookmark */;
+			76ADAD35144613E400DA6F65 /* PBXTextBookmark */ = 76ADAD35144613E400DA6F65 /* PBXTextBookmark */;
+			76ADAD3C1446144600DA6F65 /* PBXTextBookmark */ = 76ADAD3C1446144600DA6F65 /* PBXTextBookmark */;
+			76ADAD3F1446145300DA6F65 /* PBXTextBookmark */ = 76ADAD3F1446145300DA6F65 /* PBXTextBookmark */;
+			76ADAD421446147500DA6F65 /* PBXTextBookmark */ = 76ADAD421446147500DA6F65 /* PBXTextBookmark */;
+			76ADAD451446148D00DA6F65 /* PBXTextBookmark */ = 76ADAD451446148D00DA6F65 /* PBXTextBookmark */;
+			76ADAD4A14461C1C00DA6F65 /* PBXTextBookmark */ = 76ADAD4A14461C1C00DA6F65 /* PBXTextBookmark */;
+			76ADAD4D14461C2B00DA6F65 /* PBXTextBookmark */ = 76ADAD4D14461C2B00DA6F65 /* PBXTextBookmark */;
+			76ADAD5014461C6C00DA6F65 /* PBXTextBookmark */ = 76ADAD5014461C6C00DA6F65 /* PBXTextBookmark */;
+			76ADAD5314461CC500DA6F65 /* PBXTextBookmark */ = 76ADAD5314461CC500DA6F65 /* PBXTextBookmark */;
+			76ADAD5614461CF700DA6F65 /* PBXTextBookmark */ = 76ADAD5614461CF700DA6F65 /* PBXTextBookmark */;
+			76ADAD5714461D7B00DA6F65 /* PBXTextBookmark */ = 76ADAD5714461D7B00DA6F65 /* PBXTextBookmark */;
+			76ADAD5A14461F3900DA6F65 /* PBXTextBookmark */ = 76ADAD5A14461F3900DA6F65 /* PBXTextBookmark */;
+			76ADAD5D14461F8200DA6F65 /* PBXTextBookmark */ = 76ADAD5D14461F8200DA6F65 /* PBXTextBookmark */;
+			76ADAD6014461F9F00DA6F65 /* PBXTextBookmark */ = 76ADAD6014461F9F00DA6F65 /* PBXTextBookmark */;
+			76ADAD6314461FB500DA6F65 /* PBXTextBookmark */ = 76ADAD6314461FB500DA6F65 /* PBXTextBookmark */;
+			76ADAD6614461FC600DA6F65 /* PBXTextBookmark */ = 76ADAD6614461FC600DA6F65 /* PBXTextBookmark */;
+			76ADAD691446200B00DA6F65 /* PBXTextBookmark */ = 76ADAD691446200B00DA6F65 /* PBXTextBookmark */;
+			76ADAD6A1446200B00DA6F65 /* PBXTextBookmark */ = 76ADAD6A1446200B00DA6F65 /* PBXTextBookmark */;
+			76ADAD6B1446200B00DA6F65 /* PBXTextBookmark */ = 76ADAD6B1446200B00DA6F65 /* PBXTextBookmark */;
+			76ADAD6E1446203400DA6F65 /* PBXTextBookmark */ = 76ADAD6E1446203400DA6F65 /* PBXTextBookmark */;
+			76ADAD711446204A00DA6F65 /* PBXTextBookmark */ = 76ADAD711446204A00DA6F65 /* PBXTextBookmark */;
+			76ADAD741446206D00DA6F65 /* PBXTextBookmark */ = 76ADAD741446206D00DA6F65 /* PBXTextBookmark */;
+			76ADAD751446206D00DA6F65 /* PBXTextBookmark */ = 76ADAD751446206D00DA6F65 /* PBXTextBookmark */;
+			76ADAD761446206D00DA6F65 /* PBXTextBookmark */ = 76ADAD761446206D00DA6F65 /* PBXTextBookmark */;
+			76ADAD7B144620EB00DA6F65 /* PBXTextBookmark */ = 76ADAD7B144620EB00DA6F65 /* PBXTextBookmark */;
+			76ADAD7C144620EB00DA6F65 /* PBXTextBookmark */ = 76ADAD7C144620EB00DA6F65 /* PBXTextBookmark */;
+			76ADAD811446211700DA6F65 /* PBXTextBookmark */ = 76ADAD811446211700DA6F65 /* PBXTextBookmark */;
+			76ADAD861446213F00DA6F65 /* PBXTextBookmark */ = 76ADAD861446213F00DA6F65 /* PBXTextBookmark */;
+			76ADAD891446216300DA6F65 /* PBXTextBookmark */ = 76ADAD891446216300DA6F65 /* PBXTextBookmark */;
+			76ADAD8C1446218500DA6F65 /* PBXTextBookmark */ = 76ADAD8C1446218500DA6F65 /* PBXTextBookmark */;
+			76ADAD8F1446242800DA6F65 /* PBXTextBookmark */ = 76ADAD8F1446242800DA6F65 /* PBXTextBookmark */;
+			76ADAD901446242800DA6F65 /* PBXTextBookmark */ = 76ADAD901446242800DA6F65 /* PBXTextBookmark */;
+			76ADAD911446242800DA6F65 /* PBXTextBookmark */ = 76ADAD911446242800DA6F65 /* PBXTextBookmark */;
+			76ADAD921446242800DA6F65 /* PBXTextBookmark */ = 76ADAD921446242800DA6F65 /* PBXTextBookmark */;
+			76ADAD931446249A00DA6F65 /* PBXTextBookmark */ = 76ADAD931446249A00DA6F65 /* PBXTextBookmark */;
+			76ADAD96144625DC00DA6F65 /* PBXTextBookmark */ = 76ADAD96144625DC00DA6F65 /* PBXTextBookmark */;
+			76ADAD991446261200DA6F65 /* PBXTextBookmark */ = 76ADAD991446261200DA6F65 /* PBXTextBookmark */;
+			76ADAD9C1446263700DA6F65 /* PBXTextBookmark */ = 76ADAD9C1446263700DA6F65 /* PBXTextBookmark */;
+			76ADAD9D1446263700DA6F65 /* PBXTextBookmark */ = 76ADAD9D1446263700DA6F65 /* PBXTextBookmark */;
+			76ADAD9E1446263700DA6F65 /* PBXTextBookmark */ = 76ADAD9E1446263700DA6F65 /* PBXTextBookmark */;
+			76ADADA11446265A00DA6F65 /* PBXTextBookmark */ = 76ADADA11446265A00DA6F65 /* PBXTextBookmark */;
+			76ADADA4144626CC00DA6F65 /* PBXTextBookmark */ = 76ADADA4144626CC00DA6F65 /* PBXTextBookmark */;
+			76ADADA5144626CC00DA6F65 /* PBXTextBookmark */ = 76ADADA5144626CC00DA6F65 /* PBXTextBookmark */;
+			76ADADA6144626CC00DA6F65 /* PBXTextBookmark */ = 76ADADA6144626CC00DA6F65 /* PBXTextBookmark */;
+			76ADADA9144626E300DA6F65 /* PBXTextBookmark */ = 76ADADA9144626E300DA6F65 /* PBXTextBookmark */;
+			76ADADAA144626E300DA6F65 /* PBXTextBookmark */ = 76ADADAA144626E300DA6F65 /* PBXTextBookmark */;
+			76ADADAB144626E300DA6F65 /* PBXTextBookmark */ = 76ADADAB144626E300DA6F65 /* PBXTextBookmark */;
+			76ADADAE1446270300DA6F65 /* PBXTextBookmark */ = 76ADADAE1446270300DA6F65 /* PBXTextBookmark */;
+			76ADADB11446275E00DA6F65 /* PBXTextBookmark */ = 76ADADB11446275E00DA6F65 /* PBXTextBookmark */;
+			76ADADB21446275E00DA6F65 /* PBXTextBookmark */ = 76ADADB21446275E00DA6F65 /* PBXTextBookmark */;
+			76ADADB31446275E00DA6F65 /* PBXTextBookmark */ = 76ADADB31446275E00DA6F65 /* PBXTextBookmark */;
+			76ADADB61446282300DA6F65 /* PBXTextBookmark */ = 76ADADB61446282300DA6F65 /* PBXTextBookmark */;
+			76ADADB91446283C00DA6F65 /* PBXTextBookmark */ = 76ADADB91446283C00DA6F65 /* PBXTextBookmark */;
+			76ADADBA1446283C00DA6F65 /* PBXTextBookmark */ = 76ADADBA1446283C00DA6F65 /* PBXTextBookmark */;
+			76ADADBB1446283C00DA6F65 /* PBXTextBookmark */ = 76ADADBB1446283C00DA6F65 /* PBXTextBookmark */;
+			76ADADBE1446287E00DA6F65 /* PBXTextBookmark */ = 76ADADBE1446287E00DA6F65 /* PBXTextBookmark */;
+			76ADADBF1446287E00DA6F65 /* PBXTextBookmark */ = 76ADADBF1446287E00DA6F65 /* PBXTextBookmark */;
+			76ADADC01446287E00DA6F65 /* PBXTextBookmark */ = 76ADADC01446287E00DA6F65 /* PBXTextBookmark */;
+			76ADADC31446289E00DA6F65 /* PBXTextBookmark */ = 76ADADC31446289E00DA6F65 /* PBXTextBookmark */;
+			76ADADC41446289E00DA6F65 /* PBXTextBookmark */ = 76ADADC41446289E00DA6F65 /* PBXTextBookmark */;
+			76ADADC51446289E00DA6F65 /* PBXTextBookmark */ = 76ADADC51446289E00DA6F65 /* PBXTextBookmark */;
+			76ADADC8144628F200DA6F65 /* PBXTextBookmark */ = 76ADADC8144628F200DA6F65 /* PBXTextBookmark */;
+			76ADADCB1446290B00DA6F65 /* PBXTextBookmark */ = 76ADADCB1446290B00DA6F65 /* PBXTextBookmark */;
+			76ADADCC1446290B00DA6F65 /* PBXTextBookmark */ = 76ADADCC1446290B00DA6F65 /* PBXTextBookmark */;
+			76ADADCD1446290B00DA6F65 /* PBXTextBookmark */ = 76ADADCD1446290B00DA6F65 /* PBXTextBookmark */;
+			76ADADCE1446290B00DA6F65 /* PBXTextBookmark */ = 76ADADCE1446290B00DA6F65 /* PBXTextBookmark */;
+			76ADADD11446291D00DA6F65 /* PBXTextBookmark */ = 76ADADD11446291D00DA6F65 /* PBXTextBookmark */;
+			76ADADD41446293B00DA6F65 /* PBXTextBookmark */ = 76ADADD41446293B00DA6F65 /* PBXTextBookmark */;
+			76ADADD51446293B00DA6F65 /* PBXTextBookmark */ = 76ADADD51446293B00DA6F65 /* PBXTextBookmark */;
+			76ADADD61446293B00DA6F65 /* PBXTextBookmark */ = 76ADADD61446293B00DA6F65 /* PBXTextBookmark */;
+			76ADADD91446296D00DA6F65 /* PBXTextBookmark */ = 76ADADD91446296D00DA6F65 /* PBXTextBookmark */;
+			76ADADDA1446296D00DA6F65 /* PBXTextBookmark */ = 76ADADDA1446296D00DA6F65 /* PBXTextBookmark */;
+			76ADADDD1446297C00DA6F65 /* PBXTextBookmark */ = 76ADADDD1446297C00DA6F65 /* PBXTextBookmark */;
+			76ADADE0144629A400DA6F65 /* PBXTextBookmark */ = 76ADADE0144629A400DA6F65 /* PBXTextBookmark */;
+			76ADADE114462A5F00DA6F65 /* PBXTextBookmark */ = 76ADADE114462A5F00DA6F65 /* PBXTextBookmark */;
+			76ADADE214462A5F00DA6F65 /* PBXTextBookmark */ = 76ADADE214462A5F00DA6F65 /* PBXTextBookmark */;
+			76ADADE314462A5F00DA6F65 /* PBXTextBookmark */ = 76ADADE314462A5F00DA6F65 /* PBXTextBookmark */;
+			76ADADEA14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADEA14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADEB14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADEB14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADEC14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADEC14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADED14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADED14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADEE14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADEE14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADEF14462B1500DA6F65 /* PBXTextBookmark */ = 76ADADEF14462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADF014462B1500DA6F65 /* PBXTextBookmark */ = 76ADADF014462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADF114462B1500DA6F65 /* PBXTextBookmark */ = 76ADADF114462B1500DA6F65 /* PBXTextBookmark */;
+			76ADADF41446303500DA6F65 /* PBXTextBookmark */ = 76ADADF41446303500DA6F65 /* PBXTextBookmark */;
+			76ADADF51446303500DA6F65 /* PBXTextBookmark */ = 76ADADF51446303500DA6F65 /* PBXTextBookmark */;
+			76ADADF61446303500DA6F65 /* PBXTextBookmark */ = 76ADADF61446303500DA6F65 /* PBXTextBookmark */;
+			76ADADF91446304600DA6F65 /* PBXTextBookmark */ = 76ADADF91446304600DA6F65 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 769CB45813F0222F000ADFF6 /* Source Control */;
 		userBuildSettings = {
@@ -332,8 +493,8 @@
 	};
 	76ADA99B14449AA700DA6F65 /* UnitMetricObject.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1576, 965}}";
-			sepNavSelRange = "{0, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1802, 997}}";
+			sepNavSelRange = "{364, 44}";
 			sepNavVisRange = "{0, 468}";
 		};
 	};
@@ -347,15 +508,15 @@
 	76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1802, 997}}";
-			sepNavSelRange = "{1059, 16}";
-			sepNavVisRange = "{0, 1083}";
+			sepNavSelRange = "{187, 0}";
+			sepNavVisRange = "{0, 1192}";
 		};
 	};
 	76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1923, 4095}}";
-			sepNavSelRange = "{3370, 0}";
-			sepNavVisRange = "{2391, 2306}";
+			sepNavIntBoundsRect = "{{0, 0}, {2504, 3588}}";
+			sepNavSelRange = "{6491, 0}";
+			sepNavVisRange = "{4906, 2903}";
 		};
 	};
 	76ADA9E31444B06300DA6F65 /* BarGraphController.h */ = {
@@ -367,9 +528,9 @@
 	};
 	76ADA9E41444B06300DA6F65 /* BarGraphController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2756, 1638}}";
-			sepNavSelRange = "{2896, 0}";
-			sepNavVisRange = "{2494, 2652}";
+			sepNavIntBoundsRect = "{{0, 0}, {2784, 1573}}";
+			sepNavSelRange = "{3205, 0}";
+			sepNavVisRange = "{603, 3320}";
 		};
 	};
 	76ADAADA1444DF3800DA6F65 /* XCBuildMessageTextBookmark */ = {
@@ -378,7 +539,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		fallbackIsa = XCBuildMessageTextBookmark;
 		rLen = 1;
-		rLoc = 70;
+		rLoc = 67;
 		rType = 1;
 	};
 	76ADAADB1444DF3800DA6F65 /* PBXTextBookmark */ = {
@@ -386,7 +547,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 36";
 		rLen = 0;
-		rLoc = 4136;
+		rLoc = 3094;
 		rType = 0;
 		vrLen = 477;
 		vrLoc = 1489;
@@ -437,7 +598,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 37";
 		rLen = 0;
-		rLoc = 4313;
+		rLoc = 3295;
 		rType = 0;
 		vrLen = 2866;
 		vrLoc = 0;
@@ -477,7 +638,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 25";
 		rLen = 0;
-		rLoc = 434;
+		rLoc = 463;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 0;
@@ -487,7 +648,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 113";
 		rLen = 0;
-		rLoc = 2106;
+		rLoc = 4074;
 		rType = 0;
 		vrLen = 3063;
 		vrLoc = 3264;
@@ -497,7 +658,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 93";
 		rLen = 0;
-		rLoc = 2106;
+		rLoc = 4074;
 		rType = 0;
 		vrLen = 3061;
 		vrLoc = 821;
@@ -507,7 +668,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 36";
 		rLen = 0;
-		rLoc = 4136;
+		rLoc = 3094;
 		rType = 0;
 		vrLen = 477;
 		vrLoc = 1489;
@@ -517,7 +678,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 93";
 		rLen = 0;
-		rLoc = 2106;
+		rLoc = 4074;
 		rType = 0;
 		vrLen = 3061;
 		vrLoc = 821;
@@ -527,7 +688,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 39";
 		rLen = 0;
-		rLoc = 4461;
+		rLoc = 3355;
 		rType = 0;
 		vrLen = 2864;
 		vrLoc = 0;
@@ -547,7 +708,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 91";
 		rLen = 0;
-		rLoc = 2106;
+		rLoc = 4074;
 		rType = 0;
 		vrLen = 3107;
 		vrLoc = 2224;
@@ -557,7 +718,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 91";
 		rLen = 0;
-		rLoc = 2106;
+		rLoc = 4074;
 		rType = 0;
 		vrLen = 2465;
 		vrLoc = 3231;
@@ -567,7 +728,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 141";
 		rLen = 0;
-		rLoc = 3580;
+		rLoc = 4387;
 		rType = 0;
 		vrLen = 2415;
 		vrLoc = 3151;
@@ -577,7 +738,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 141";
 		rLen = 0;
-		rLoc = 3618;
+		rLoc = 4387;
 		rType = 0;
 		vrLen = 2411;
 		vrLoc = 3151;
@@ -587,7 +748,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 141";
 		rLen = 0;
-		rLoc = 3618;
+		rLoc = 4387;
 		rType = 0;
 		vrLen = 2769;
 		vrLoc = 3282;
@@ -597,7 +758,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 162";
 		rLen = 0;
-		rLoc = 4080;
+		rLoc = 4844;
 		rType = 0;
 		vrLen = 2555;
 		vrLoc = 4564;
@@ -607,7 +768,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 162";
 		rLen = 0;
-		rLoc = 4080;
+		rLoc = 4844;
 		rType = 0;
 		vrLen = 2754;
 		vrLoc = 0;
@@ -617,7 +778,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 25";
 		rLen = 0;
-		rLoc = 434;
+		rLoc = 463;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 0;
@@ -637,7 +798,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 29";
 		rLen = 0;
-		rLoc = 2410;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2864;
 		vrLoc = 0;
@@ -647,7 +808,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 29";
 		rLen = 0;
-		rLoc = 2410;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3004;
 		vrLoc = 133;
@@ -667,7 +828,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 168";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 2777;
 		vrLoc = 3337;
@@ -677,7 +838,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 168";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 2777;
 		vrLoc = 3337;
@@ -687,7 +848,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 210";
 		rLen = 0;
-		rLoc = 4193;
+		rLoc = 4957;
 		rType = 0;
 		vrLen = 3039;
 		vrLoc = 5511;
@@ -697,7 +858,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 252";
 		rLen = 0;
-		rLoc = 4636;
+		rLoc = 5400;
 		rType = 0;
 		vrLen = 3173;
 		vrLoc = 6904;
@@ -717,7 +878,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 25";
 		rLen = 0;
-		rLoc = 434;
+		rLoc = 463;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 0;
@@ -727,7 +888,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 29";
 		rLen = 0;
-		rLoc = 2410;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2767;
 		vrLoc = 448;
@@ -737,7 +898,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 252";
 		rLen = 0;
-		rLoc = 4636;
+		rLoc = 5400;
 		rType = 0;
 		vrLen = 2491;
 		vrLoc = 3241;
@@ -747,7 +908,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 353";
 		rLen = 0;
-		rLoc = 8760;
+		rLoc = 9866;
 		rType = 0;
 		vrLen = 2805;
 		vrLoc = 9961;
@@ -757,7 +918,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 223";
 		rLen = 0;
-		rLoc = 6216;
+		rLoc = 6871;
 		rType = 0;
 		vrLen = 3008;
 		vrLoc = 6161;
@@ -767,7 +928,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 108";
 		rLen = 0;
-		rLoc = 3405;
+		rLoc = 4211;
 		rType = 0;
 		vrLen = 1786;
 		vrLoc = 3241;
@@ -777,7 +938,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 146";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 1957;
 		vrLoc = 3284;
@@ -787,7 +948,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 155";
 		rLen = 0;
-		rLoc = 4517;
+		rLoc = 5281;
 		rType = 0;
 		vrLen = 2190;
 		vrLoc = 3340;
@@ -797,7 +958,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 155";
 		rLen = 0;
-		rLoc = 4517;
+		rLoc = 5281;
 		rType = 0;
 		vrLen = 2188;
 		vrLoc = 3340;
@@ -807,7 +968,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 335";
 		rLen = 0;
-		rLoc = 8750;
+		rLoc = 9856;
 		rType = 0;
 		vrLen = 2764;
 		vrLoc = 8390;
@@ -817,7 +978,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 335";
 		rLen = 0;
-		rLoc = 8750;
+		rLoc = 9856;
 		rType = 0;
 		vrLen = 2717;
 		vrLoc = 8681;
@@ -827,7 +988,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 208";
 		rLen = 0;
-		rLoc = 6216;
+		rLoc = 6871;
 		rType = 0;
 		vrLen = 2979;
 		vrLoc = 5312;
@@ -837,7 +998,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 206";
 		rLen = 0;
-		rLoc = 6216;
+		rLoc = 6871;
 		rType = 0;
 		vrLen = 3035;
 		vrLoc = 5312;
@@ -847,7 +1008,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2876;
 		vrLoc = 5312;
@@ -857,7 +1018,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2876;
 		vrLoc = 5312;
@@ -867,7 +1028,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 210";
 		rLen = 0;
-		rLoc = 6219;
+		rLoc = 6873;
 		rType = 0;
 		vrLen = 2876;
 		vrLoc = 5312;
@@ -877,7 +1038,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2876;
 		vrLoc = 5312;
@@ -887,7 +1048,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 210";
 		rLen = 0;
-		rLoc = 6219;
+		rLoc = 6873;
 		rType = 0;
 		vrLen = 2877;
 		vrLoc = 5312;
@@ -897,7 +1058,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 32";
 		rLen = 0;
-		rLoc = 729;
+		rLoc = 674;
 		rType = 0;
 		vrLen = 2750;
 		vrLoc = 0;
@@ -907,7 +1068,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 210";
 		rLen = 0;
-		rLoc = 6219;
+		rLoc = 6873;
 		rType = 0;
 		vrLen = 2557;
 		vrLoc = 6092;
@@ -917,7 +1078,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2447;
 		vrLoc = 6207;
@@ -927,7 +1088,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2892;
 		vrLoc = 4862;
@@ -937,7 +1098,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2946;
 		vrLoc = 4895;
@@ -947,7 +1108,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2918;
 		vrLoc = 4934;
@@ -957,7 +1118,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2924;
 		vrLoc = 4938;
@@ -967,7 +1128,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2896;
 		vrLoc = 4990;
@@ -977,7 +1138,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2521;
 		vrLoc = 5999;
@@ -987,7 +1148,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6286;
+		rLoc = 6959;
 		rType = 0;
 		vrLen = 2521;
 		vrLoc = 6054;
@@ -997,7 +1158,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 213";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2504;
 		vrLoc = 6082;
@@ -1007,7 +1168,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2567;
 		vrLoc = 6089;
@@ -1017,7 +1178,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 148";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 1819;
 		vrLoc = 3335;
@@ -1027,7 +1188,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 148";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 1819;
 		vrLoc = 3335;
@@ -1037,7 +1198,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 29";
 		rLen = 0;
-		rLoc = 2410;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2744;
 		vrLoc = 448;
@@ -1047,7 +1208,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 21";
 		rLen = 0;
-		rLoc = 1160;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2918;
 		vrLoc = 45;
@@ -1057,7 +1218,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 648;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2900;
 		vrLoc = 129;
@@ -1067,7 +1228,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 22";
 		rLen = 0;
-		rLoc = 1414;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2920;
 		vrLoc = 133;
@@ -1077,7 +1238,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 22";
 		rLen = 0;
-		rLoc = 1414;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2827;
 		vrLoc = 0;
@@ -1087,7 +1248,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 148";
 		rLen = 0;
-		rLoc = 4190;
+		rLoc = 4954;
 		rType = 0;
 		vrLen = 1680;
 		vrLoc = 3335;
@@ -1097,7 +1258,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 213";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2979;
 		vrLoc = 4959;
@@ -1107,7 +1268,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 213";
 		rLen = 0;
-		rLoc = 6241;
+		rLoc = 6895;
 		rType = 0;
 		vrLen = 2932;
 		vrLoc = 5011;
@@ -1117,7 +1278,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 215";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2618;
 		vrLoc = 4831;
@@ -1127,7 +1288,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 215";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2065;
 		vrLoc = 3440;
@@ -1137,7 +1298,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 22";
 		rLen = 0;
-		rLoc = 1414;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2827;
 		vrLoc = 0;
@@ -1147,7 +1308,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 1898;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2855;
 		vrLoc = 7;
@@ -1157,7 +1318,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 1898;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3002;
 		vrLoc = 166;
@@ -1167,7 +1328,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 215";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2064;
 		vrLoc = 3440;
@@ -1177,7 +1338,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 146";
 		rLen = 0;
-		rLoc = 4188;
+		rLoc = 4952;
 		rType = 0;
 		vrLen = 1958;
 		vrLoc = 3371;
@@ -1187,7 +1348,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 144";
 		rLen = 0;
-		rLoc = 4144;
+		rLoc = 4908;
 		rType = 0;
 		vrLen = 2002;
 		vrLoc = 3398;
@@ -1197,7 +1358,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 140";
 		rLen = 0;
-		rLoc = 4086;
+		rLoc = 4850;
 		rType = 0;
 		vrLen = 2468;
 		vrLoc = 3525;
@@ -1207,7 +1368,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 1898;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2969;
 		vrLoc = 166;
@@ -1217,7 +1378,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 1929;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2970;
 		vrLoc = 201;
@@ -1227,7 +1388,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 1929;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2898;
 		vrLoc = 129;
@@ -1237,7 +1398,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 25";
 		rLen = 0;
-		rLoc = 434;
+		rLoc = 463;
 		rType = 0;
 		vrLen = 902;
 		vrLoc = 0;
@@ -1247,7 +1408,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 144";
 		rLen = 0;
-		rLoc = 4181;
+		rLoc = 4945;
 		rType = 0;
 		vrLen = 2403;
 		vrLoc = 3779;
@@ -1257,7 +1418,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 212";
 		rLen = 0;
-		rLoc = 6386;
+		rLoc = 7205;
 		rType = 0;
 		vrLen = 2510;
 		vrLoc = 6067;
@@ -1267,7 +1428,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 221";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2481;
 		vrLoc = 6064;
@@ -1277,7 +1438,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 221";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2466;
 		vrLoc = 6060;
@@ -1287,7 +1448,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 209";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2770;
 		vrLoc = 5396;
@@ -1297,7 +1458,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2593;
 		vrLoc = 5739;
@@ -1307,7 +1468,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2593;
 		vrLoc = 5739;
@@ -1317,7 +1478,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 223";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2491;
 		vrLoc = 6036;
@@ -1327,7 +1488,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 224";
 		rLen = 0;
-		rLoc = 6708;
+		rLoc = 7491;
 		rType = 0;
 		vrLen = 2681;
 		vrLoc = 6185;
@@ -1337,7 +1498,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 228";
 		rLen = 0;
-		rLoc = 6947;
+		rLoc = 7777;
 		rType = 0;
 		vrLen = 2815;
 		vrLoc = 6417;
@@ -1347,7 +1508,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 224";
 		rLen = 0;
-		rLoc = 6739;
+		rLoc = 7522;
 		rType = 0;
 		vrLen = 2719;
 		vrLoc = 6372;
@@ -1357,7 +1518,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 224";
 		rLen = 0;
-		rLoc = 6739;
+		rLoc = 7522;
 		rType = 0;
 		vrLen = 2789;
 		vrLoc = 6397;
@@ -1367,7 +1528,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2577;
 		vrLoc = 6064;
@@ -1377,7 +1538,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2640;
 		vrLoc = 6067;
@@ -1387,7 +1548,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 213";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2535;
 		vrLoc = 6182;
@@ -1397,7 +1558,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 248";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2477;
 		vrLoc = 6291;
@@ -1407,7 +1568,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 217";
 		rLen = 0;
-		rLoc = 6327;
+		rLoc = 6998;
 		rType = 0;
 		vrLen = 2604;
 		vrLoc = 6070;
@@ -1417,7 +1578,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 248";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2723;
 		vrLoc = 6457;
@@ -1427,7 +1588,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 248";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2724;
 		vrLoc = 6485;
@@ -1437,7 +1598,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 248";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2713;
 		vrLoc = 6748;
@@ -1447,7 +1608,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 358";
 		rLen = 0;
-		rLoc = 8739;
+		rLoc = 9845;
 		rType = 0;
 		vrLen = 2547;
 		vrLoc = 8735;
@@ -1457,7 +1618,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 247";
 		rLen = 0;
-		rLoc = 7443;
+		rLoc = 8378;
 		rType = 0;
 		vrLen = 2771;
 		vrLoc = 6546;
@@ -1467,7 +1628,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 251";
 		rLen = 0;
-		rLoc = 7550;
+		rLoc = 8418;
 		rType = 0;
 		vrLen = 2603;
 		vrLoc = 6534;
@@ -1477,7 +1638,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 249";
 		rLen = 0;
-		rLoc = 7457;
+		rLoc = 8382;
 		rType = 0;
 		vrLen = 2708;
 		vrLoc = 6540;
@@ -1487,7 +1648,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 258";
 		rLen = 0;
-		rLoc = 7784;
+		rLoc = 8834;
 		rType = 0;
 		vrLen = 2747;
 		vrLoc = 6546;
@@ -1497,7 +1658,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2624;
 		vrLoc = 4788;
@@ -1507,7 +1668,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 34";
 		rLen = 0;
-		rLoc = 2517;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 2956;
 		vrLoc = 129;
@@ -1537,7 +1698,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 15";
 		rLen = 0;
-		rLoc = 289;
+		rLoc = 318;
 		rType = 0;
 		vrLen = 925;
 		vrLoc = 0;
@@ -1547,7 +1708,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 211";
 		rLen = 0;
-		rLoc = 6291;
+		rLoc = 6963;
 		rType = 0;
 		vrLen = 2769;
 		vrLoc = 131;
@@ -1557,7 +1718,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 245";
 		rLen = 0;
-		rLoc = 7495;
+		rLoc = 8407;
 		rType = 0;
 		vrLen = 2470;
 		vrLoc = 6412;
@@ -1567,7 +1728,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 32";
 		rLen = 0;
-		rLoc = 584;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 977;
 		vrLoc = 0;
@@ -1577,7 +1738,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 51";
 		rLen = 0;
-		rLoc = 4565;
+		rLoc = 3459;
 		rType = 0;
 		vrLen = 2907;
 		vrLoc = 129;
@@ -1587,7 +1748,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 18";
 		rLen = 0;
-		rLoc = 356;
+		rLoc = 383;
 		rType = 0;
 		vrLen = 2653;
 		vrLoc = 0;
@@ -1597,7 +1758,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 251";
 		rLen = 0;
-		rLoc = 7687;
+		rLoc = 8608;
 		rType = 0;
 		vrLen = 2742;
 		vrLoc = 6649;
@@ -1607,7 +1768,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 204";
 		rLen = 0;
-		rLoc = 6263;
+		rLoc = 6917;
 		rType = 0;
 		vrLen = 2834;
 		vrLoc = 5345;
@@ -1617,7 +1778,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 206";
 		rLen = 0;
-		rLoc = 6327;
+		rLoc = 6998;
 		rType = 0;
 		vrLen = 2807;
 		vrLoc = 5474;
@@ -1627,7 +1788,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 206";
 		rLen = 0;
-		rLoc = 6327;
+		rLoc = 6998;
 		rType = 0;
 		vrLen = 2578;
 		vrLoc = 4120;
@@ -1647,7 +1808,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 34";
 		rLen = 0;
-		rLoc = 2662;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3272;
 		vrLoc = 7;
@@ -1657,7 +1818,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 648;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3332;
 		vrLoc = 42;
@@ -1667,7 +1828,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 647;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3291;
 		vrLoc = 83;
@@ -1677,7 +1838,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 647;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3327;
 		vrLoc = 132;
@@ -1687,7 +1848,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 627;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3375;
 		vrLoc = 133;
@@ -1697,7 +1858,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 20";
 		rLen = 0;
-		rLoc = 647;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3419;
 		vrLoc = 165;
@@ -1707,7 +1868,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 23";
 		rLen = 0;
-		rLoc = 2059;
+		rLoc = 534;
 		rType = 0;
 		vrLen = 3929;
 		vrLoc = 166;
@@ -1729,15 +1890,15 @@
 	76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1802, 997}}";
-			sepNavSelRange = "{535, 0}";
-			sepNavVisRange = "{0, 561}";
+			sepNavSelRange = "{273, 10}";
+			sepNavVisRange = "{0, 729}";
 		};
 	};
 	76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1802, 997}}";
-			sepNavSelRange = "{244, 0}";
-			sepNavVisRange = "{0, 267}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRange = "{0, 418}";
 		};
 	};
 	76ADAC4E1445E98400DA6F65 /* PBXTextBookmark */ = {
@@ -1745,7 +1906,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 32";
 		rLen = 0;
-		rLoc = 584;
+		rLoc = 693;
 		rType = 0;
 		vrLen = 977;
 		vrLoc = 0;
@@ -1755,7 +1916,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 206";
 		rLen = 0;
-		rLoc = 6327;
+		rLoc = 6998;
 		rType = 0;
 		vrLen = 2929;
 		vrLoc = 340;
@@ -1795,7 +1956,7 @@
 		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
 		name = "GraphGroupObject.h: 18";
 		rLen = 0;
-		rLoc = 286;
+		rLoc = 366;
 		rType = 0;
 		vrLen = 533;
 		vrLoc = 0;
@@ -1825,7 +1986,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 43";
 		rLen = 0;
-		rLoc = 3397;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 3485;
 		vrLoc = 0;
@@ -1835,7 +1996,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 48";
 		rLen = 0;
-		rLoc = 3397;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 3987;
 		vrLoc = 42;
@@ -1855,7 +2016,7 @@
 		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
 		name = "GraphGroupObject.h: 27";
 		rLen = 0;
-		rLoc = 535;
+		rLoc = 615;
 		rType = 0;
 		vrLen = 561;
 		vrLoc = 0;
@@ -1865,7 +2026,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 52";
 		rLen = 0;
-		rLoc = 3849;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 4293;
 		vrLoc = 42;
@@ -1875,7 +2036,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 39";
 		rLen = 0;
-		rLoc = 2710;
+		rLoc = 537;
 		rType = 0;
 		vrLen = 4406;
 		vrLoc = 45;
@@ -1885,7 +2046,7 @@
 		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
 		name = "GraphGroupObject.h: 27";
 		rLen = 0;
-		rLoc = 535;
+		rLoc = 615;
 		rType = 0;
 		vrLen = 561;
 		vrLoc = 0;
@@ -1925,7 +2086,7 @@
 		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
 		name = "VerticalBarGraphView.h: 47";
 		rLen = 16;
-		rLoc = 1059;
+		rLoc = 1168;
 		rType = 0;
 		vrLen = 1083;
 		vrLoc = 0;
@@ -1935,7 +2096,7 @@
 		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
 		name = "BarGraphController.m: 45";
 		rLen = 0;
-		rLoc = 2896;
+		rLoc = 611;
 		rType = 0;
 		vrLen = 2652;
 		vrLoc = 2494;
@@ -1945,7 +2106,7 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 18";
 		rLen = 0;
-		rLoc = 356;
+		rLoc = 383;
 		rType = 0;
 		vrLen = 2671;
 		vrLoc = 0;
@@ -1955,10 +2116,1620 @@
 		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
 		name = "VerticalBarGraphView.m: 110";
 		rLen = 0;
-		rLoc = 3370;
+		rLoc = 4178;
 		rType = 0;
 		vrLen = 2306;
 		vrLoc = 2391;
+	};
+	76ADAC731445F1BA00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADAC741445F1BA00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 32";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 2535;
+		vrLoc = 0;
+	};
+	76ADAC751445F1BA00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 51";
+		rLen = 0;
+		rLoc = 611;
+		rType = 0;
+		vrLen = 2678;
+		vrLoc = 2497;
+	};
+	76ADAC781445F21800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 66";
+		rLen = 0;
+		rLoc = 611;
+		rType = 0;
+		vrLen = 2442;
+		vrLoc = 2500;
+	};
+	76ADAC7B1445F2A600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 66";
+		rLen = 0;
+		rLoc = 611;
+		rType = 0;
+		vrLen = 4287;
+		vrLoc = 365;
+	};
+	76ADAC7C1445F2A600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADAC7D1445F2A600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 50";
+		rLen = 0;
+		rLoc = 1468;
+		rType = 0;
+		vrLen = 2498;
+		vrLoc = 22;
+	};
+	76ADAC801445F2E100DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 53";
+		rLen = 0;
+		rLoc = 1800;
+		rType = 0;
+		vrLen = 2554;
+		vrLoc = 34;
+	};
+	76ADAC851445F43600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 69";
+		rLen = 0;
+		rLoc = 2338;
+		rType = 0;
+		vrLen = 2614;
+		vrLoc = 1184;
+	};
+	76ADAC881445F46500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 75";
+		rLen = 0;
+		rLoc = 2616;
+		rType = 0;
+		vrLen = 2907;
+		vrLoc = 674;
+	};
+	76ADAC8D1445F4E500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 75";
+		rLen = 0;
+		rLoc = 2616;
+		rType = 0;
+		vrLen = 2907;
+		vrLoc = 674;
+	};
+	76ADAC8E1445F4E500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E31444B06300DA6F65 /* BarGraphController.h */;
+		name = "BarGraphController.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	76ADAC8F1445F4E500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 62";
+		rLen = 0;
+		rLoc = 1701;
+		rType = 0;
+		vrLen = 2729;
+		vrLoc = 2159;
+	};
+	76ADAC921445F55A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADAC931445F55A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 75";
+		rLen = 0;
+		rLoc = 2616;
+		rType = 0;
+		vrLen = 2905;
+		vrLoc = 674;
+	};
+	76ADAC941445F55A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC391445E2BB00DA6F65 /* BarGroupObject.m */;
+		name = "BarGroupObject.m: 14";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	76ADAC951445F55A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 62";
+		rLen = 0;
+		rLoc = 1701;
+		rType = 0;
+		vrLen = 2729;
+		vrLoc = 2159;
+	};
+	76ADAC961445F55A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 71";
+		rLen = 0;
+		rLoc = 3090;
+		rType = 0;
+		vrLen = 2611;
+		vrLoc = 2331;
+	};
+	76ADAC991445F56A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 71";
+		rLen = 0;
+		rLoc = 3090;
+		rType = 0;
+		vrLen = 2520;
+		vrLoc = 2421;
+	};
+	76ADAC9C1445F5F300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 71";
+		rLen = 0;
+		rLoc = 3090;
+		rType = 0;
+		vrLen = 2520;
+		vrLoc = 2421;
+	};
+	76ADAC9D1445F5F300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADAC9E1445F5F300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 15";
+		rLen = 0;
+		rLoc = 244;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	76ADAC9F1445F5F300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 20";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	76ADACA21445F62300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADACA31445F62300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 20";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	76ADACA41445F62300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 21";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	76ADACA71445F64400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 21";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	76ADACA81445F64400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADACA91445F64400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 75";
+		rLen = 0;
+		rLoc = 2616;
+		rType = 0;
+		vrLen = 2667;
+		vrLoc = 1131;
+	};
+	76ADACB41445F87F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 122";
+		rLen = 0;
+		rLoc = 4515;
+		rType = 0;
+		vrLen = 2191;
+		vrLoc = 2403;
+	};
+	76ADACB71445FB2C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 268";
+		rLen = 0;
+		rLoc = 9843;
+		rType = 0;
+		vrLen = 2577;
+		vrLoc = 6549;
+	};
+	76ADACCA1446006D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 269";
+		rLen = 0;
+		rLoc = 9350;
+		rType = 0;
+		vrLen = 2572;
+		vrLoc = 6623;
+	};
+	76ADACCF144608F400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 282";
+		rLen = 0;
+		rLoc = 9843;
+		rType = 0;
+		vrLen = 2409;
+		vrLoc = 6961;
+	};
+	76ADACD21446095300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 277";
+		rLen = 0;
+		rLoc = 9792;
+		rType = 0;
+		vrLen = 2515;
+		vrLoc = 6704;
+	};
+	76ADACD51446096700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 250";
+		rLen = 0;
+		rLoc = 8660;
+		rType = 0;
+		vrLen = 2542;
+		vrLoc = 6708;
+	};
+	76ADACD81446098900DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 247";
+		rLen = 0;
+		rLoc = 8596;
+		rType = 0;
+		vrLen = 2566;
+		vrLoc = 6743;
+	};
+	76ADACDB1446099D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 247";
+		rLen = 0;
+		rLoc = 8596;
+		rType = 0;
+		vrLen = 2428;
+		vrLoc = 6913;
+	};
+	76ADACDE14460A9100DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 251";
+		rLen = 0;
+		rLoc = 8631;
+		rType = 0;
+		vrLen = 2735;
+		vrLoc = 6420;
+	};
+	76ADACE114460AC800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 203";
+		rLen = 0;
+		rLoc = 7200;
+		rType = 0;
+		vrLen = 2493;
+		vrLoc = 6140;
+	};
+	76ADACE614460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC381445E2BB00DA6F65 /* BarGroupObject.h */;
+		name = "BarGroupObject.h: 24";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	76ADACE714460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADACE814460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 21";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	76ADACE914460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 62";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 2523;
+		vrLoc = 2421;
+	};
+	76ADACEA14460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC391445E2BB00DA6F65 /* BarGroupObject.m */;
+		name = "BarGroupObject.m: 14";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	76ADACEB14460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADACEC14460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 205";
+		rLen = 0;
+		rLoc = 7208;
+		rType = 0;
+		vrLen = 2493;
+		vrLoc = 6140;
+	};
+	76ADACED14460C5800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 249";
+		rLen = 0;
+		rLoc = 8689;
+		rType = 0;
+		vrLen = 2808;
+		vrLoc = 6377;
+	};
+	76ADACF014460CC100DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 246";
+		rLen = 0;
+		rLoc = 8782;
+		rType = 0;
+		vrLen = 2756;
+		vrLoc = 6420;
+	};
+	76ADACF314460CEC00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 248";
+		rLen = 0;
+		rLoc = 8780;
+		rType = 0;
+		vrLen = 2859;
+		vrLoc = 6289;
+	};
+	76ADACF614460D0300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 248";
+		rLen = 0;
+		rLoc = 8768;
+		rType = 0;
+		vrLen = 2796;
+		vrLoc = 6382;
+	};
+	76ADACF914460D1D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 264";
+		rLen = 0;
+		rLoc = 9350;
+		rType = 0;
+		vrLen = 2717;
+		vrLoc = 6420;
+	};
+	76ADACFE14460DE800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 272";
+		rLen = 0;
+		rLoc = 9802;
+		rType = 0;
+		vrLen = 2677;
+		vrLoc = 6808;
+	};
+	76ADAD0114460E1D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 266";
+		rLen = 0;
+		rLoc = 9355;
+		rType = 0;
+		vrLen = 2621;
+		vrLoc = 6777;
+	};
+	76ADAD0414460E4700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 263";
+		rLen = 0;
+		rLoc = 9243;
+		rType = 0;
+		vrLen = 2650;
+		vrLoc = 6812;
+	};
+	76ADAD0714460EB200DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 236";
+		rLen = 0;
+		rLoc = 8271;
+		rType = 0;
+		vrLen = 2731;
+		vrLoc = 5843;
+	};
+	76ADAD0A14460EF700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 236";
+		rLen = 0;
+		rLoc = 8382;
+		rType = 0;
+		vrLen = 2673;
+		vrLoc = 6140;
+	};
+	76ADAD0D14460F1F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 244";
+		rLen = 0;
+		rLoc = 8631;
+		rType = 0;
+		vrLen = 2650;
+		vrLoc = 6618;
+	};
+	76ADAD1414460FA400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 244";
+		rLen = 0;
+		rLoc = 8631;
+		rType = 0;
+		vrLen = 2617;
+		vrLoc = 6700;
+	};
+	76ADAD1514460FA400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADAD1614460FA400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 21";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	76ADAD1714460FA400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 67";
+		rLen = 0;
+		rLoc = 1851;
+		rType = 0;
+		vrLen = 2943;
+		vrLoc = 2421;
+	};
+	76ADAD1A1446100800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 67";
+		rLen = 0;
+		rLoc = 1851;
+		rType = 0;
+		vrLen = 4873;
+		vrLoc = 201;
+	};
+	76ADAD1B1446100800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 244";
+		rLen = 0;
+		rLoc = 8631;
+		rType = 0;
+		vrLen = 2617;
+		vrLoc = 6700;
+	};
+	76ADAD1C1446100800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 201";
+		rLen = 0;
+		rLoc = 7050;
+		rType = 0;
+		vrLen = 2944;
+		vrLoc = 4941;
+	};
+	76ADAD1F1446105500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 236";
+		rLen = 0;
+		rLoc = 8382;
+		rType = 0;
+		vrLen = 2671;
+		vrLoc = 6140;
+	};
+	76ADAD221446106800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 236";
+		rLen = 0;
+		rLoc = 8382;
+		rType = 0;
+		vrLen = 2800;
+		vrLoc = 6168;
+	};
+	76ADAD251446110500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 69";
+		rLen = 0;
+		rLoc = 2343;
+		rType = 0;
+		vrLen = 2387;
+		vrLoc = 1813;
+	};
+	76ADAD281446117C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 69";
+		rLen = 40;
+		rLoc = 2298;
+		rType = 0;
+		vrLen = 2940;
+		vrLoc = 709;
+	};
+	76ADAD2B1446123F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 72";
+		rLen = 0;
+		rLoc = 2573;
+		rType = 0;
+		vrLen = 2662;
+		vrLoc = 1131;
+	};
+	76ADAD2E1446125100DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 72";
+		rLen = 0;
+		rLoc = 2578;
+		rType = 0;
+		vrLen = 2690;
+		vrLoc = 1184;
+	};
+	76ADAD2F1446129900DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 73";
+		rLen = 0;
+		rLoc = 2456;
+		rType = 0;
+		vrLen = 2714;
+		vrLoc = 1184;
+	};
+	76ADAD321446139100DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 271";
+		rLen = 0;
+		rLoc = 9842;
+		rType = 0;
+		vrLen = 2150;
+		vrLoc = 7414;
+	};
+	76ADAD35144613E400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 259";
+		rLen = 0;
+		rLoc = 9330;
+		rType = 0;
+		vrLen = 2169;
+		vrLoc = 7418;
+	};
+	76ADAD3C1446144600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 144";
+		rLen = 0;
+		rLoc = 5157;
+		rType = 0;
+		vrLen = 2442;
+		vrLoc = 4142;
+	};
+	76ADAD3F1446145300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 144";
+		rLen = 0;
+		rLoc = 5157;
+		rType = 0;
+		vrLen = 2461;
+		vrLoc = 4194;
+	};
+	76ADAD421446147500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 141";
+		rLen = 0;
+		rLoc = 5006;
+		rType = 0;
+		vrLen = 2422;
+		vrLoc = 4241;
+	};
+	76ADAD451446148D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 144";
+		rLen = 0;
+		rLoc = 5162;
+		rType = 0;
+		vrLen = 2451;
+		vrLoc = 4286;
+	};
+	76ADAD4A14461C1C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 168";
+		rLen = 0;
+		rLoc = 5824;
+		rType = 0;
+		vrLen = 2618;
+		vrLoc = 4367;
+	};
+	76ADAD4D14461C2B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 168";
+		rLen = 0;
+		rLoc = 5848;
+		rType = 0;
+		vrLen = 2716;
+		vrLoc = 4384;
+	};
+	76ADAD5014461C6C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 177";
+		rLen = 0;
+		rLoc = 6200;
+		rType = 0;
+		vrLen = 2350;
+		vrLoc = 4309;
+	};
+	76ADAD5314461CC500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 208";
+		rLen = 0;
+		rLoc = 7491;
+		rType = 0;
+		vrLen = 2797;
+		vrLoc = 5718;
+	};
+	76ADAD5614461CF700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 227";
+		rLen = 0;
+		rLoc = 8366;
+		rType = 0;
+		vrLen = 2772;
+		vrLoc = 6173;
+	};
+	76ADAD5714461D7B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 227";
+		rLen = 0;
+		rLoc = 8366;
+		rType = 0;
+		vrLen = 2953;
+		vrLoc = 5256;
+	};
+	76ADAD5A14461F3900DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 229";
+		rLen = 0;
+		rLoc = 8366;
+		rType = 0;
+		vrLen = 2712;
+		vrLoc = 5880;
+	};
+	76ADAD5D14461F8200DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 229";
+		rLen = 0;
+		rLoc = 8379;
+		rType = 0;
+		vrLen = 2603;
+		vrLoc = 5978;
+	};
+	76ADAD6014461F9F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 193";
+		rLen = 0;
+		rLoc = 6998;
+		rType = 0;
+		vrLen = 2672;
+		vrLoc = 5827;
+	};
+	76ADAD6314461FB500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 193";
+		rLen = 0;
+		rLoc = 6997;
+		rType = 0;
+		vrLen = 2664;
+		vrLoc = 5880;
+	};
+	76ADAD6614461FC600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 193";
+		rLen = 0;
+		rLoc = 6997;
+		rType = 0;
+		vrLen = 2664;
+		vrLoc = 5978;
+	};
+	76ADAD691446200B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 193";
+		rLen = 0;
+		rLoc = 6997;
+		rType = 0;
+		vrLen = 2664;
+		vrLoc = 5978;
+	};
+	76ADAD6A1446200B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 67";
+		rLen = 0;
+		rLoc = 1851;
+		rType = 0;
+		vrLen = 4873;
+		vrLoc = 201;
+	};
+	76ADAD6B1446200B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 77";
+		rLen = 0;
+		rLoc = 2430;
+		rType = 0;
+		vrLen = 3170;
+		vrLoc = 2776;
+	};
+	76ADAD6E1446203400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 78";
+		rLen = 0;
+		rLoc = 2457;
+		rType = 0;
+		vrLen = 3264;
+		vrLoc = 2779;
+	};
+	76ADAD711446204A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 87";
+		rLen = 0;
+		rLoc = 3079;
+		rType = 0;
+		vrLen = 3313;
+		vrLoc = 2783;
+	};
+	76ADAD741446206D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 87";
+		rLen = 0;
+		rLoc = 3079;
+		rType = 0;
+		vrLen = 3162;
+		vrLoc = 2674;
+	};
+	76ADAD751446206D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 193";
+		rLen = 0;
+		rLoc = 6997;
+		rType = 0;
+		vrLen = 2603;
+		vrLoc = 5978;
+	};
+	76ADAD761446206D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 168";
+		rLen = 0;
+		rLoc = 5848;
+		rType = 0;
+		vrLen = 2839;
+		vrLoc = 4438;
+	};
+	76ADAD7B144620EB00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 168";
+		rLen = 0;
+		rLoc = 5848;
+		rType = 0;
+		vrLen = 2377;
+		vrLoc = 2215;
+	};
+	76ADAD7C144620EB00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 70";
+		rLen = 0;
+		rLoc = 3305;
+		rType = 0;
+		vrLen = 3329;
+		vrLoc = 364;
+	};
+	76ADAD811446211700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 38";
+		rLen = 0;
+		rLoc = 1392;
+		rType = 0;
+		vrLen = 3208;
+		vrLoc = 535;
+	};
+	76ADAD861446213F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3212;
+		rType = 0;
+		vrLen = 3285;
+		vrLoc = 544;
+	};
+	76ADAD891446216300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3207;
+		rType = 0;
+		vrLen = 3363;
+		vrLoc = 606;
+	};
+	76ADAD8C1446218500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 72";
+		rLen = 0;
+		rLoc = 3355;
+		rType = 0;
+		vrLen = 3373;
+		vrLoc = 665;
+	};
+	76ADAD8F1446242800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 72";
+		rLen = 0;
+		rLoc = 3355;
+		rType = 0;
+		vrLen = 3455;
+		vrLoc = 0;
+	};
+	76ADAD901446242800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADAD911446242800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 168";
+		rLen = 0;
+		rLoc = 5848;
+		rType = 0;
+		vrLen = 3321;
+		vrLoc = 226;
+	};
+	76ADAD921446242800DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 48";
+		rLen = 0;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 3348;
+		vrLoc = 250;
+	};
+	76ADAD931446249A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 72";
+		rLen = 0;
+		rLoc = 2731;
+		rType = 0;
+		vrLen = 2789;
+		vrLoc = 1365;
+	};
+	76ADAD96144625DC00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 88";
+		rLen = 0;
+		rLoc = 3914;
+		rType = 0;
+		vrLen = 3143;
+		vrLoc = 1424;
+	};
+	76ADAD991446261200DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 88";
+		rLen = 0;
+		rLoc = 3919;
+		rType = 0;
+		vrLen = 3162;
+		vrLoc = 1483;
+	};
+	76ADAD9C1446263700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 88";
+		rLen = 0;
+		rLoc = 3919;
+		rType = 0;
+		vrLen = 2955;
+		vrLoc = 0;
+	};
+	76ADAD9D1446263700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 27";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 561;
+		vrLoc = 0;
+	};
+	76ADAD9E1446263700DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3208;
+		vrLoc = 535;
+	};
+	76ADADA11446265A00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3209;
+		vrLoc = 538;
+	};
+	76ADADA4144626CC00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3209;
+		vrLoc = 538;
+	};
+	76ADADA5144626CC00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 88";
+		rLen = 0;
+		rLoc = 3919;
+		rType = 0;
+		vrLen = 2955;
+		vrLoc = 0;
+	};
+	76ADADA6144626CC00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 33";
+		rLen = 0;
+		rLoc = 851;
+		rType = 0;
+		vrLen = 3809;
+		vrLoc = 225;
+	};
+	76ADADA9144626E300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 33";
+		rLen = 0;
+		rLoc = 851;
+		rType = 0;
+		vrLen = 3809;
+		vrLoc = 225;
+	};
+	76ADADAA144626E300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3208;
+		vrLoc = 538;
+	};
+	76ADADAB144626E300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3209;
+		vrLoc = 541;
+	};
+	76ADADAE1446270300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 75";
+		rLen = 0;
+		rLoc = 3398;
+		rType = 0;
+		vrLen = 3320;
+		vrLoc = 603;
+	};
+	76ADADB11446275E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 75";
+		rLen = 0;
+		rLoc = 3398;
+		rType = 0;
+		vrLen = 3320;
+		vrLoc = 603;
+	};
+	76ADADB21446275E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 33";
+		rLen = 0;
+		rLoc = 851;
+		rType = 0;
+		vrLen = 3769;
+		vrLoc = 225;
+	};
+	76ADADB31446275E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 15";
+		rLen = 0;
+		rLoc = 247;
+		rType = 0;
+		vrLen = 3301;
+		vrLoc = 3;
+	};
+	76ADADB61446282300DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 213";
+		rLen = 0;
+		rLoc = 7705;
+		rType = 0;
+		vrLen = 2404;
+		vrLoc = 4785;
+	};
+	76ADADB91446283C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 213";
+		rLen = 0;
+		rLoc = 7705;
+		rType = 0;
+		vrLen = 2404;
+		vrLoc = 4785;
+	};
+	76ADADBA1446283C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 75";
+		rLen = 0;
+		rLoc = 3398;
+		rType = 0;
+		vrLen = 3226;
+		vrLoc = 603;
+	};
+	76ADADBB1446283C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3363;
+		vrLoc = 606;
+	};
+	76ADADBE1446287E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 213";
+		rLen = 0;
+		rLoc = 7705;
+		rType = 0;
+		vrLen = 2583;
+		vrLoc = 4848;
+	};
+	76ADADBF1446287E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3317;
+		vrLoc = 606;
+	};
+	76ADADC01446287E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3429;
+		vrLoc = 609;
+	};
+	76ADADC31446289E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3429;
+		vrLoc = 609;
+	};
+	76ADADC41446289E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 213";
+		rLen = 0;
+		rLoc = 7705;
+		rType = 0;
+		vrLen = 2583;
+		vrLoc = 4848;
+	};
+	76ADADC51446289E00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 179";
+		rLen = 0;
+		rLoc = 6491;
+		rType = 0;
+		vrLen = 2647;
+		vrLoc = 4886;
+	};
+	76ADADC8144628F200DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 177";
+		rLen = 0;
+		rLoc = 6304;
+		rType = 0;
+		vrLen = 2873;
+		vrLoc = 4906;
+	};
+	76ADADCB1446290B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 177";
+		rLen = 0;
+		rLoc = 6304;
+		rType = 0;
+		vrLen = 2876;
+		vrLoc = 4903;
+	};
+	76ADADCC1446290B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADADCD1446290B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC381445E2BB00DA6F65 /* BarGroupObject.h */;
+		name = "BarGroupObject.h: 24";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	76ADADCE1446290B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3375;
+		vrLoc = 665;
+	};
+	76ADADD11446291D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3311;
+		vrLoc = 733;
+	};
+	76ADADD41446293B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3311;
+		vrLoc = 733;
+	};
+	76ADADD51446293B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 177";
+		rLen = 0;
+		rLoc = 6304;
+		rType = 0;
+		vrLen = 2823;
+		vrLoc = 4903;
+	};
+	76ADADD61446293B00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 179";
+		rLen = 0;
+		rLoc = 6491;
+		rType = 0;
+		vrLen = 2903;
+		vrLoc = 4906;
+	};
+	76ADADD91446296D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99E14449AA700DA6F65 /* VerticalBarGraphView.m */;
+		name = "VerticalBarGraphView.m: 179";
+		rLen = 0;
+		rLoc = 6491;
+		rType = 0;
+		vrLen = 2903;
+		vrLoc = 4906;
+	};
+	76ADADDA1446296D00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3210;
+		rType = 0;
+		vrLen = 2930;
+		vrLoc = 1115;
+	};
+	76ADADDD1446297C00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3027;
+		vrLoc = 1157;
+	};
+	76ADADE0144629A400DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3210;
+		rType = 0;
+		vrLen = 3085;
+		vrLoc = 1174;
+	};
+	76ADADE114462A5F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3210;
+		rType = 0;
+		vrLen = 3209;
+		vrLoc = 538;
+	};
+	76ADADE214462A5F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 21";
+		rLen = 0;
+		rLoc = 394;
+		rType = 0;
+		vrLen = 399;
+		vrLoc = 0;
+	};
+	76ADADE314462A5F00DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 13";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 642;
+		vrLoc = 0;
+	};
+	76ADADEA14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC381445E2BB00DA6F65 /* BarGroupObject.h */;
+		name = "BarGroupObject.h: 24";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 442;
+		vrLoc = 0;
+	};
+	76ADADEB14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E31444B06300DA6F65 /* BarGraphController.h */;
+		name = "BarGraphController.h: 12";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	76ADADEC14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Test6AppDelegate.h */;
+		name = "Test6AppDelegate.h: 20";
+		rLen = 0;
+		rLoc = 461;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 0;
+	};
+	76ADADED14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99D14449AA700DA6F65 /* VerticalBarGraphView.h */;
+		name = "VerticalBarGraphView.h: 10";
+		rLen = 0;
+		rLoc = 187;
+		rType = 0;
+		vrLen = 1192;
+		vrLoc = 0;
+	};
+	76ADADEE14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA99B14449AA700DA6F65 /* UnitMetricObject.h */;
+		name = "UnitMetricObject.h: 23";
+		rLen = 44;
+		rLoc = 364;
+		rType = 0;
+		vrLen = 468;
+		vrLoc = 0;
+	};
+	76ADADEF14462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC3F1445E5AB00DA6F65 /* GraphGroupObject.h */;
+		name = "GraphGroupObject.h: 19";
+		rLen = 10;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 0;
+	};
+	76ADADF014462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 15";
+		rLen = 0;
+		rLoc = 266;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	76ADADF114462B1500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 15";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	76ADADF41446303500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADAC401445E5AB00DA6F65 /* GraphGroupObject.m */;
+		name = "GraphGroupObject.m: 15";
+		rLen = 0;
+		rLoc = 267;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	76ADADF51446303500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3210;
+		rType = 0;
+		vrLen = 3208;
+		vrLoc = 538;
+	};
+	76ADADF61446303500DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3209;
+		vrLoc = 541;
+	};
+	76ADADF91446304600DA6F65 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 76ADA9E41444B06300DA6F65 /* BarGraphController.m */;
+		name = "BarGraphController.m: 68";
+		rLen = 0;
+		rLoc = 3205;
+		rType = 0;
+		vrLen = 3320;
+		vrLoc = 603;
 	};
 	8D1107310486CEB800E47090 /* Test6-Info.plist */ = {
 		uiCtxt = {

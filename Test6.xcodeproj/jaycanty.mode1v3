@@ -272,7 +272,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
+									<integer>11</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -297,7 +297,7 @@
 							<real>210</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>258 173 2095 1180 0 0 2560 1418 </string>
+						<string>543 193 2095 1180 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -315,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>VerticalBarGraphView.m</string>
+								<string>BarGraphController.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -323,28 +323,28 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>VerticalBarGraphView.m</string>
+										<string>BarGraphController.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>76ADAC6C1445EF7800DA6F65</string>
+										<string>76ADADF91446304600DA6F65</string>
 										<key>history</key>
 										<array>
-											<string>76ADAAE21444DF3F00DA6F65</string>
 											<string>76ADAAE31444DF3F00DA6F65</string>
 											<string>76ADAAE61444DF3F00DA6F65</string>
-											<string>76ADAAE71444DF3F00DA6F65</string>
 											<string>76ADAB271444E55700DA6F65</string>
 											<string>76ADAC0F1445D69600DA6F65</string>
 											<string>76ADAC501445E98400DA6F65</string>
-											<string>76ADAC551445E98400DA6F65</string>
-											<string>76ADAC651445EF7800DA6F65</string>
-											<string>76ADAC661445EF7800DA6F65</string>
-											<string>76ADAC671445EF7800DA6F65</string>
-											<string>76ADAC681445EF7800DA6F65</string>
-											<string>76ADAC691445EF7800DA6F65</string>
-											<string>76ADAC6A1445EF7800DA6F65</string>
-											<string>76ADAC6B1445EF7800DA6F65</string>
+											<string>76ADACEA14460C5800DA6F65</string>
+											<string>76ADADD91446296D00DA6F65</string>
+											<string>76ADADEA14462B1500DA6F65</string>
+											<string>76ADADEB14462B1500DA6F65</string>
+											<string>76ADADEC14462B1500DA6F65</string>
+											<string>76ADADED14462B1500DA6F65</string>
+											<string>76ADADEE14462B1500DA6F65</string>
+											<string>76ADADEF14462B1500DA6F65</string>
+											<string>76ADADF41446303500DA6F65</string>
+											<string>76ADADF51446303500DA6F65</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -358,7 +358,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1863, 1077}}</string>
 								<key>RubberWindowFrame</key>
-								<string>258 173 2095 1180 0 0 2560 1418 </string>
+								<string>543 193 2095 1180 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -378,7 +378,7 @@
 								<key>Frame</key>
 								<string>{{0, 1082}, {1863, 57}}</string>
 								<key>RubberWindowFrame</key>
-								<string>258 173 2095 1180 0 0 2560 1418 </string>
+								<string>543 193 2095 1180 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -549,7 +549,7 @@
 		<string>/Users/jaycanty/Desktop/Test6/Test6.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>258 173 2095 1180 0 0 2560 1418 </string>
+	<string>543 193 2095 1180 0 0 2560 1418 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
