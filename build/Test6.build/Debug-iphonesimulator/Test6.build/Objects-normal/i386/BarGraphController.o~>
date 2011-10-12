@@ -1,0 +1,8 @@
+In file included from /Users/jaycanty/Desktop/Test6/Classes/BarGraphController.h:10,
+                 from /Users/jaycanty/Desktop/Test6/Classes/BarGraphController.m:9:
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.h:17: error: expected specifier-qualifier-list before 'GraphGroupObject'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.h:47: error: expected specifier-qualifier-list before 'GraphGroupObject'
+/Users/jaycanty/Desktop/Test6/Classes/BarGraphController.m: In function '-[BarGraphController initWithNibName:bundle:]':
+/Users/jaycanty/Desktop/Test6/Classes/BarGraphController.m:51: error: redefinition of 'bgo'
+/Users/jaycanty/Desktop/Test6/Classes/BarGraphController.m:41: error: previous definition of 'bgo' was here
+/Users/jaycanty/Desktop/Test6/Classes/BarGraphController.m:77: error: request for member 'graphGroupObject' in something not a structure or union

@@ -1,0 +1,240 @@
+TTest6
+v7
+r0
+t338839827.333286
+cCheck dependencies
+cProcessInfoPlistFile /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Info.plist Test6-Info.plist
+cCompileXIB /Users/jaycanty/Desktop/Test6/MainWindow.xib
+cProcessPCH /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch.gch Test6_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/main.o /Users/jaycanty/Desktop/Test6/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6AppDelegate.o /Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Circle.o /Users/jaycanty/Desktop/Test6/Classes/Circle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6 normal i386
+cGenerateDSYMFile /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app.dSYM /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6
+cTouch /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/jaycanty/Desktop/Test6/Classes/Circle.h
+c000000004E82116F0000000000000256
+t1317146991
+s598
+i<UIKit/UIKit.h>
+
+N/Users/jaycanty/Desktop/Test6/Classes/Circle.m
+c000000004E82116F000000000000063A
+t1317146991
+s1594
+i"Circle.h"
+
+N/Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.h
+c000000004E82116F000000000000013B
+t1317146991
+s315
+i<UIKit/UIKit.h>
+i"Circle.h"
+
+N/Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m
+c000000004E82116F0000000000000AF3
+t1317146991
+s2803
+i"Test6AppDelegate.h"
+
+N/Users/jaycanty/Desktop/Test6/MainWindow.xib
+c000000004E82116F00000000000020FE
+t1317146991
+s8446
+
+N/Users/jaycanty/Desktop/Test6/Test6_Prefix.pch
+c000000004E82116F00000000000000B3
+t1317146991
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app
+t1317147027
+s204
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app.dSYM
+t1317147027
+s102
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Info.plist
+t1317147026
+s583
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/MainWindow.nib
+t1317147026
+s1529
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/PkgInfo
+t1317147026
+s8
+
+N/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6
+t1317147027
+s18404
+
+N/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Circle.o
+t1317147027
+s45532
+
+N/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6.LinkFileList
+c000000004E8211920000000000000155
+t1317147026
+s341
+
+N/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6AppDelegate.o
+t1317147027
+s51952
+
+N/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/main.o
+t1317147027
+s6296
+
+N/Users/jaycanty/Desktop/Test6/main.m
+c000000004E82116F000000000000014E
+t1317146991
+s334
+i<UIKit/UIKit.h>
+
+N/var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch.gch
+t1317147027
+s15814064
+
+NTest6-Info.plist
+c000000004E82116F000000000000038D
+t1317146991
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338839826#338839826#0(0"0(0#1#0"8633141696#0"0#
+
+CCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Circle.o /Users/jaycanty/Desktop/Test6/Classes/Circle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338839827.264460
+e338839827.308279
+r1
+xCompileC
+xbuild/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Circle.o
+x/Users/jaycanty/Desktop/Test6/Classes/Circle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jaycanty/Desktop/Test6/Classes/Circle.m: In function '-[Circle initWithFrame:withUnitArea:andFillColor:andStrokeColor:withStrokeThickness:]':
+o/Users/jaycanty/Desktop/Test6/Classes/Circle.m:26: warning: local declaration of 'thickness' hides instance variable
+lSLF07#2@54"Compile /Users/jaycanty/Desktop/Test6/Classes/Circle.m338839827#338839827#0(266"/Users/jaycanty/Desktop/Test6/Classes/Circle.m: In function '-[Circle initWithFrame:withUnitArea:andFillColor:andStrokeColor:withStrokeThickness:]':/Users/jaycanty/Desktop/Test6/Classes/Circle.m:26: warning: local declaration of 'thickness' hides instance variable1(22@56"Local declaration of 'thickness' hides instance variable338839827#149#117#0(6@46"/Users/jaycanty/Desktop/Test6/Classes/Circle.m338839791#26#0#26#0#0"0(0#0#46"/Users/jaycanty/Desktop/Test6/Classes/Circle.m8633547328#1791"    cd /Users/jaycanty/Desktop/Test6    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-generated-files.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-own-target-headers.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-all-target-headers.hmap -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-project-headers.hmap -F/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -I/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/include -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources/i386 -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources -include /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch -c /Users/jaycanty/Desktop/Test6/Classes/Circle.m -o /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Circle.o0#
+
+CCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6AppDelegate.o /Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338839827.263845
+e338839827.305472
+r1
+xCompileC
+xbuild/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6AppDelegate.o
+x/Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m338839827#338839827#0(0"0(0#0#56"/Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m8634436192#1811"    cd /Users/jaycanty/Desktop/Test6    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-generated-files.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-own-target-headers.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-all-target-headers.hmap -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-project-headers.hmap -F/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -I/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/include -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources/i386 -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources -include /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch -c /Users/jaycanty/Desktop/Test6/Classes/Test6AppDelegate.m -o /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6AppDelegate.o0#
+
+CCompileC build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/main.o /Users/jaycanty/Desktop/Test6/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338839827.263228
+e338839827.292236
+r1
+xCompileC
+xbuild/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/main.o
+x/Users/jaycanty/Desktop/Test6/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Compile /Users/jaycanty/Desktop/Test6/main.m338839827#338839827#0(0"0(0#0#36"/Users/jaycanty/Desktop/Test6/main.m8634601408#1779"    cd /Users/jaycanty/Desktop/Test6    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-generated-files.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-own-target-headers.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-all-target-headers.hmap -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-project-headers.hmap -F/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -I/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/include -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources/i386 -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources -include /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch -c /Users/jaycanty/Desktop/Test6/main.m -o /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jaycanty/Desktop/Test6/MainWindow.xib
+s338839826.547147
+e338839826.734764
+r1
+xCompileXIB
+x/Users/jaycanty/Desktop/Test6/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib338839826#338839826#0(0"0(0#0#44"/Users/jaycanty/Desktop/Test6/MainWindow.xib8633272512#545"    cd /Users/jaycanty/Desktop/Test6    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/MainWindow.nib /Users/jaycanty/Desktop/Test6/MainWindow.xib --sdk /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app.dSYM /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6
+s338839827.322724
+e338839827.331610
+r1
+xGenerateDSYMFile
+x/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app.dSYM
+x/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Test6.app.dSYM build/Debug-iphonesimulator/Test6.app/Test6338839827#338839827#0(0"0(0#0#73"/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test68623221312#353"    cd /Users/jaycanty/Desktop/Test6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/usr/bin/dsymutil /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6 -o /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app.dSYM0#
+
+CLd /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6 normal i386
+s338839827.308337
+e338839827.322653
+r1
+xLd
+x/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6
+xnormal
+xi386
+lSLF07#2@78"Link /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test6338839827#338839827#0(0"0(0#0#0"8632396384#849"    cd /Users/jaycanty/Desktop/Test6    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -F/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -filelist /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Objects-normal/i386/Test6.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Test60#
+
+CProcessInfoPlistFile /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Info.plist Test6-Info.plist
+s338839826.544437
+e338839826.547095
+r1
+xProcessInfoPlistFile
+x/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Info.plist
+xTest6-Info.plist
+lSLF07#2@24"Process Test6-Info.plist338839826#338839826#0(0"0(0#0#46"/Users/jaycanty/Desktop/Test6/Test6-Info.plist8632828992#448"    cd /Users/jaycanty/Desktop/Test6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Test6-Info.plist -genpkginfo /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app/Info.plist0#
+
+CProcessPCH /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch.gch Test6_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338839826.734844
+e338839827.263159
+r1
+xProcessPCH
+x/var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch.gch
+xTest6_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Test6_Prefix.pch338839826#338839827#0(0"0(0#0#46"/Users/jaycanty/Desktop/Test6/Test6_Prefix.pch8634474464#1682"    cd /Users/jaycanty/Desktop/Test6    setenv LANG en_US.US-ASCII    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-generated-files.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-own-target-headers.hmap -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-all-target-headers.hmap -iquote /Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/Test6-project-headers.hmap -F/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator -I/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/include -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources/i386 -I/Users/jaycanty/Desktop/Test6/build/Test6.build/Debug-iphonesimulator/Test6.build/DerivedSources -c /Users/jaycanty/Desktop/Test6/Test6_Prefix.pch -o /var/folders/Ak/Akxm617AG2GfdStkOJ6f+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test6_Prefix-fobnnenpsrqmbyavyvolmvkpjeoy/Test6_Prefix.pch.gch0#
+
+CTouch /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app
+s338839827.331673
+e338839827.333256
+r1
+xTouch
+x/Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app
+lSLF07#2@73"Touch /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app338839827#338839827#0(0"0(0#0#0"8615600000#260"    cd /Users/jaycanty/Desktop/Test6    setenv PATH "/Developer3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jaycanty/Desktop/Test6/build/Debug-iphonesimulator/Test6.app0#
+

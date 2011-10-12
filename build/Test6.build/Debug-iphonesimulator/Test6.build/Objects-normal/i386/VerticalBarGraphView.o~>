@@ -1,0 +1,18 @@
+In file included from /Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:9:
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.h:17: error: expected specifier-qualifier-list before 'GraphGroupObject'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.h:47: error: expected specifier-qualifier-list before 'GraphGroupObject'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:18: error: no declaration of property 'graphGroupObject' found in the interface
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m: In function '-[VerticalBarGraphView initWithFrame:]':
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:62: warning: unused variable 'startX'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:61: warning: unused variable 'totalWidth'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:59: warning: unused variable 'labels'
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m: In function '-[VerticalBarGraphView initialize]':
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:82: error: 'labels' undeclared (first use in this function)
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:82: error: (Each undeclared identifier is reported only once
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:82: error: for each function it appears in.)
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:90: error: 'totalWidth' undeclared (first use in this function)
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:92: error: 'startX' undeclared (first use in this function)
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:94: error: 'metricLabelFont' undeclared (first use in this function)
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m: At top level:
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:305: warning: property 'labelColorBoxView' requires method '-labelColorBoxView' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jaycanty/Desktop/Test6/Classes/VerticalBarGraphView.m:305: warning: property 'labelColorBoxView' requires the method 'setLabelColorBoxView:' to be defined - use @synthesize, @dynamic or provide a method implementation
